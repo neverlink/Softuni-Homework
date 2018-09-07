@@ -1,0 +1,6 @@
+D:\!Projects\Softuni-Homework\01. Programming Basics\First Steps in Coding\P-04. Rectangle Area\bin\Debug\P_04.Rectangle_Area.exe.config
+D:\!Projects\Softuni-Homework\01. Programming Basics\First Steps in Coding\P-04. Rectangle Area\bin\Debug\P_04.Rectangle_Area.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\First Steps in Coding\P-04. Rectangle Area\bin\Debug\P_04.Rectangle_Area.pdb
+D:\!Projects\Softuni-Homework\01. Programming Basics\First Steps in Coding\P-04. Rectangle Area\obj\Debug\P-04. Rectangle Area.csproj.CoreCompileInputs.cache
+D:\!Projects\Softuni-Homework\01. Programming Basics\First Steps in Coding\P-04. Rectangle Area\obj\Debug\P_04.Rectangle_Area.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\First Steps in Coding\P-04. Rectangle Area\obj\Debug\P_04.Rectangle_Area.pdb
