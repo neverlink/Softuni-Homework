@@ -1,0 +1,6 @@
+D:\!Projects\Softuni-Homework\01. Programming Basics\Simple Operations and Calculations - Exercise\P-05. Dance Hall\bin\Debug\P_05.Dance_Hall.exe.config
+D:\!Projects\Softuni-Homework\01. Programming Basics\Simple Operations and Calculations - Exercise\P-05. Dance Hall\bin\Debug\P_05.Dance_Hall.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\Simple Operations and Calculations - Exercise\P-05. Dance Hall\bin\Debug\P_05.Dance_Hall.pdb
+D:\!Projects\Softuni-Homework\01. Programming Basics\Simple Operations and Calculations - Exercise\P-05. Dance Hall\obj\Debug\P-05. Dance Hall.csproj.CoreCompileInputs.cache
+D:\!Projects\Softuni-Homework\01. Programming Basics\Simple Operations and Calculations - Exercise\P-05. Dance Hall\obj\Debug\P_05.Dance_Hall.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\Simple Operations and Calculations - Exercise\P-05. Dance Hall\obj\Debug\P_05.Dance_Hall.pdb
