@@ -1,0 +1,7 @@
+D:\!Projects\Softuni-Homework\01. Programming Basics\05 - Conditional Statements - Exercise\P-07. Scholarship\bin\Debug\P_07.Scholarship.exe.config
+D:\!Projects\Softuni-Homework\01. Programming Basics\05 - Conditional Statements - Exercise\P-07. Scholarship\bin\Debug\P_07.Scholarship.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\05 - Conditional Statements - Exercise\P-07. Scholarship\bin\Debug\P_07.Scholarship.pdb
+D:\!Projects\Softuni-Homework\01. Programming Basics\05 - Conditional Statements - Exercise\P-07. Scholarship\obj\Debug\P-07. Scholarship.csprojAssemblyReference.cache
+D:\!Projects\Softuni-Homework\01. Programming Basics\05 - Conditional Statements - Exercise\P-07. Scholarship\obj\Debug\P-07. Scholarship.csproj.CoreCompileInputs.cache
+D:\!Projects\Softuni-Homework\01. Programming Basics\05 - Conditional Statements - Exercise\P-07. Scholarship\obj\Debug\P_07.Scholarship.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\05 - Conditional Statements - Exercise\P-07. Scholarship\obj\Debug\P_07.Scholarship.pdb

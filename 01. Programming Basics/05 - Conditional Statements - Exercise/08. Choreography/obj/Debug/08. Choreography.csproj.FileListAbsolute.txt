@@ -1,0 +1,7 @@
+D:\!Projects\Softuni-Homework\01. Programming Basics\05 - Conditional Statements - Exercise\08. Choreography\bin\Debug\_08.Choreography.exe.config
+D:\!Projects\Softuni-Homework\01. Programming Basics\05 - Conditional Statements - Exercise\08. Choreography\bin\Debug\_08.Choreography.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\05 - Conditional Statements - Exercise\08. Choreography\bin\Debug\_08.Choreography.pdb
+D:\!Projects\Softuni-Homework\01. Programming Basics\05 - Conditional Statements - Exercise\08. Choreography\obj\Debug\08. Choreography.csprojAssemblyReference.cache
+D:\!Projects\Softuni-Homework\01. Programming Basics\05 - Conditional Statements - Exercise\08. Choreography\obj\Debug\08. Choreography.csproj.CoreCompileInputs.cache
+D:\!Projects\Softuni-Homework\01. Programming Basics\05 - Conditional Statements - Exercise\08. Choreography\obj\Debug\_08.Choreography.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\05 - Conditional Statements - Exercise\08. Choreography\obj\Debug\_08.Choreography.pdb

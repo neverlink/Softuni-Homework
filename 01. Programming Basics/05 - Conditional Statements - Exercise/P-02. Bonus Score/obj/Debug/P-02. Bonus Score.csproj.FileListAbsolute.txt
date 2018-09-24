@@ -1,0 +1,7 @@
+C:\Users\never\source\repos\05 - Conditional Statements - Exercise\P-02. Bonus Score\bin\Debug\P_02.Bonus_Score.exe.config
+C:\Users\never\source\repos\05 - Conditional Statements - Exercise\P-02. Bonus Score\bin\Debug\P_02.Bonus_Score.exe
+C:\Users\never\source\repos\05 - Conditional Statements - Exercise\P-02. Bonus Score\bin\Debug\P_02.Bonus_Score.pdb
+C:\Users\never\source\repos\05 - Conditional Statements - Exercise\P-02. Bonus Score\obj\Debug\P-02. Bonus Score.csprojAssemblyReference.cache
+C:\Users\never\source\repos\05 - Conditional Statements - Exercise\P-02. Bonus Score\obj\Debug\P-02. Bonus Score.csproj.CoreCompileInputs.cache
+C:\Users\never\source\repos\05 - Conditional Statements - Exercise\P-02. Bonus Score\obj\Debug\P_02.Bonus_Score.exe
+C:\Users\never\source\repos\05 - Conditional Statements - Exercise\P-02. Bonus Score\obj\Debug\P_02.Bonus_Score.pdb
