@@ -1,0 +1,7 @@
+D:\!Projects\Softuni-Homework\01. Programming Basics\06 - Nested Conditional Statements\P-10. Match Tickets\bin\Debug\P_10.Match_Tickets.exe.config
+D:\!Projects\Softuni-Homework\01. Programming Basics\06 - Nested Conditional Statements\P-10. Match Tickets\bin\Debug\P_10.Match_Tickets.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\06 - Nested Conditional Statements\P-10. Match Tickets\bin\Debug\P_10.Match_Tickets.pdb
+D:\!Projects\Softuni-Homework\01. Programming Basics\06 - Nested Conditional Statements\P-10. Match Tickets\obj\Debug\P-10. Match Tickets.csprojAssemblyReference.cache
+D:\!Projects\Softuni-Homework\01. Programming Basics\06 - Nested Conditional Statements\P-10. Match Tickets\obj\Debug\P-10. Match Tickets.csproj.CoreCompileInputs.cache
+D:\!Projects\Softuni-Homework\01. Programming Basics\06 - Nested Conditional Statements\P-10. Match Tickets\obj\Debug\P_10.Match_Tickets.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\06 - Nested Conditional Statements\P-10. Match Tickets\obj\Debug\P_10.Match_Tickets.pdb
