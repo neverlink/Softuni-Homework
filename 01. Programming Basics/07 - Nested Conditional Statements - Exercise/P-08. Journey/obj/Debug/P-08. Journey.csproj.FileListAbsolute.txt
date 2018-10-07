@@ -1,0 +1,7 @@
+D:\!Projects\Softuni-Homework\01. Programming Basics\07 - Nested Conditional Statements - Exercise\P-08. Journey\bin\Debug\P_08.Journey.exe.config
+D:\!Projects\Softuni-Homework\01. Programming Basics\07 - Nested Conditional Statements - Exercise\P-08. Journey\bin\Debug\P_08.Journey.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\07 - Nested Conditional Statements - Exercise\P-08. Journey\bin\Debug\P_08.Journey.pdb
+D:\!Projects\Softuni-Homework\01. Programming Basics\07 - Nested Conditional Statements - Exercise\P-08. Journey\obj\Debug\P-08. Journey.csprojAssemblyReference.cache
+D:\!Projects\Softuni-Homework\01. Programming Basics\07 - Nested Conditional Statements - Exercise\P-08. Journey\obj\Debug\P-08. Journey.csproj.CoreCompileInputs.cache
+D:\!Projects\Softuni-Homework\01. Programming Basics\07 - Nested Conditional Statements - Exercise\P-08. Journey\obj\Debug\P_08.Journey.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\07 - Nested Conditional Statements - Exercise\P-08. Journey\obj\Debug\P_08.Journey.pdb

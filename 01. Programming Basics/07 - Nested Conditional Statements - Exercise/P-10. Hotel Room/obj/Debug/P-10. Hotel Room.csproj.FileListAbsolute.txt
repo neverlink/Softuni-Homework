@@ -1,0 +1,7 @@
+D:\!Projects\Softuni-Homework\01. Programming Basics\07 - Nested Conditional Statements - Exercise\P-10. Hotel Room\bin\Debug\P_10.Hotel_Room.exe.config
+D:\!Projects\Softuni-Homework\01. Programming Basics\07 - Nested Conditional Statements - Exercise\P-10. Hotel Room\bin\Debug\P_10.Hotel_Room.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\07 - Nested Conditional Statements - Exercise\P-10. Hotel Room\bin\Debug\P_10.Hotel_Room.pdb
+D:\!Projects\Softuni-Homework\01. Programming Basics\07 - Nested Conditional Statements - Exercise\P-10. Hotel Room\obj\Debug\P-10. Hotel Room.csprojAssemblyReference.cache
+D:\!Projects\Softuni-Homework\01. Programming Basics\07 - Nested Conditional Statements - Exercise\P-10. Hotel Room\obj\Debug\P-10. Hotel Room.csproj.CoreCompileInputs.cache
+D:\!Projects\Softuni-Homework\01. Programming Basics\07 - Nested Conditional Statements - Exercise\P-10. Hotel Room\obj\Debug\P_10.Hotel_Room.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\07 - Nested Conditional Statements - Exercise\P-10. Hotel Room\obj\Debug\P_10.Hotel_Room.pdb
