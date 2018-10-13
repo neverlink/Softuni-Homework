@@ -1,0 +1,6 @@
+D:\!Projects\Softuni-Homework\08 - While Loop\P-08. Sequence 2k+1\bin\Debug\P_08.Sequence_2k_1.exe.config
+D:\!Projects\Softuni-Homework\08 - While Loop\P-08. Sequence 2k+1\bin\Debug\P_08.Sequence_2k_1.exe
+D:\!Projects\Softuni-Homework\08 - While Loop\P-08. Sequence 2k+1\bin\Debug\P_08.Sequence_2k_1.pdb
+D:\!Projects\Softuni-Homework\08 - While Loop\P-08. Sequence 2k+1\obj\Debug\P-08. Sequence 2k+1.csproj.CoreCompileInputs.cache
+D:\!Projects\Softuni-Homework\08 - While Loop\P-08. Sequence 2k+1\obj\Debug\P_08.Sequence_2k_1.exe
+D:\!Projects\Softuni-Homework\08 - While Loop\P-08. Sequence 2k+1\obj\Debug\P_08.Sequence_2k_1.pdb

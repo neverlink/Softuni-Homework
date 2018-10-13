@@ -1,0 +1,6 @@
+D:\!Projects\Softuni-Homework\08 - While Loop\P-05. Walking\bin\Debug\P_05.Walking.exe.config
+D:\!Projects\Softuni-Homework\08 - While Loop\P-05. Walking\bin\Debug\P_05.Walking.exe
+D:\!Projects\Softuni-Homework\08 - While Loop\P-05. Walking\bin\Debug\P_05.Walking.pdb
+D:\!Projects\Softuni-Homework\08 - While Loop\P-05. Walking\obj\Debug\P-05. Walking.csproj.CoreCompileInputs.cache
+D:\!Projects\Softuni-Homework\08 - While Loop\P-05. Walking\obj\Debug\P_05.Walking.exe
+D:\!Projects\Softuni-Homework\08 - While Loop\P-05. Walking\obj\Debug\P_05.Walking.pdb

@@ -1,0 +1,7 @@
+D:\!Projects\Softuni-Homework\08 - While Loop\P-07. Water dispenser\bin\Debug\P_07.Water_dispenser.exe.config
+D:\!Projects\Softuni-Homework\08 - While Loop\P-07. Water dispenser\bin\Debug\P_07.Water_dispenser.exe
+D:\!Projects\Softuni-Homework\08 - While Loop\P-07. Water dispenser\bin\Debug\P_07.Water_dispenser.pdb
+D:\!Projects\Softuni-Homework\08 - While Loop\P-07. Water dispenser\obj\Debug\P-07. Water dispenser.csprojAssemblyReference.cache
+D:\!Projects\Softuni-Homework\08 - While Loop\P-07. Water dispenser\obj\Debug\P-07. Water dispenser.csproj.CoreCompileInputs.cache
+D:\!Projects\Softuni-Homework\08 - While Loop\P-07. Water dispenser\obj\Debug\P_07.Water_dispenser.exe
+D:\!Projects\Softuni-Homework\08 - While Loop\P-07. Water dispenser\obj\Debug\P_07.Water_dispenser.pdb

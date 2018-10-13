@@ -1,0 +1,7 @@
+D:\!Projects\Softuni-Homework\08 - While Loop\P-09. Moving\bin\Debug\P_09.Moving.exe.config
+D:\!Projects\Softuni-Homework\08 - While Loop\P-09. Moving\bin\Debug\P_09.Moving.exe
+D:\!Projects\Softuni-Homework\08 - While Loop\P-09. Moving\bin\Debug\P_09.Moving.pdb
+D:\!Projects\Softuni-Homework\08 - While Loop\P-09. Moving\obj\Debug\P-09. Moving.csprojAssemblyReference.cache
+D:\!Projects\Softuni-Homework\08 - While Loop\P-09. Moving\obj\Debug\P-09. Moving.csproj.CoreCompileInputs.cache
+D:\!Projects\Softuni-Homework\08 - While Loop\P-09. Moving\obj\Debug\P_09.Moving.exe
+D:\!Projects\Softuni-Homework\08 - While Loop\P-09. Moving\obj\Debug\P_09.Moving.pdb
