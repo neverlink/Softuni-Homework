@@ -1,0 +1,7 @@
+D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop\P-05. Min Number\bin\Debug\P_05.Min_Number.exe.config
+D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop\P-05. Min Number\bin\Debug\P_05.Min_Number.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop\P-05. Min Number\bin\Debug\P_05.Min_Number.pdb
+D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop\P-05. Min Number\obj\Debug\P-05. Min Number.csprojAssemblyReference.cache
+D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop\P-05. Min Number\obj\Debug\P-05. Min Number.csproj.CoreCompileInputs.cache
+D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop\P-05. Min Number\obj\Debug\P_05.Min_Number.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop\P-05. Min Number\obj\Debug\P_05.Min_Number.pdb

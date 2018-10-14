@@ -32,7 +32,6 @@ namespace P_01.Greatest_Common_Divisor__CGD_
                 }
 
             }
-
             Console.WriteLine(n == m ? n : oldDivisor);
         }
     }

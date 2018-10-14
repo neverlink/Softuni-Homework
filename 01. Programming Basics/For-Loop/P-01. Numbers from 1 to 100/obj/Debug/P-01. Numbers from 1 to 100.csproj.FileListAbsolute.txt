@@ -1,0 +1,7 @@
+D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop\P-01. Numbers from 1 to 100\bin\Debug\P_01.Numbers_from_1_to_100.exe.config
+D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop\P-01. Numbers from 1 to 100\bin\Debug\P_01.Numbers_from_1_to_100.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop\P-01. Numbers from 1 to 100\bin\Debug\P_01.Numbers_from_1_to_100.pdb
+D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop\P-01. Numbers from 1 to 100\obj\Debug\P-01. Numbers from 1 to 100.csprojAssemblyReference.cache
+D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop\P-01. Numbers from 1 to 100\obj\Debug\P-01. Numbers from 1 to 100.csproj.CoreCompileInputs.cache
+D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop\P-01. Numbers from 1 to 100\obj\Debug\P_01.Numbers_from_1_to_100.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop\P-01. Numbers from 1 to 100\obj\Debug\P_01.Numbers_from_1_to_100.pdb

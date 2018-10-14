@@ -56,7 +56,6 @@ namespace P_05.Coins
                 input -= 1;
                 coinsCount++;
             }
-
             Console.WriteLine(coinsCount);
         }
     }

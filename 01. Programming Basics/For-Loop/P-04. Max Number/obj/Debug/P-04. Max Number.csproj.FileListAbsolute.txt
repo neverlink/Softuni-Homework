@@ -1,0 +1,6 @@
+D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop\P-04. Max Number\obj\Debug\P-04. Max Number.csproj.CoreCompileInputs.cache
+D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop\P-04. Max Number\bin\Debug\P_04.Max_Number.exe.config
+D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop\P-04. Max Number\bin\Debug\P_04.Max_Number.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop\P-04. Max Number\bin\Debug\P_04.Max_Number.pdb
+D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop\P-04. Max Number\obj\Debug\P_04.Max_Number.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop\P-04. Max Number\obj\Debug\P_04.Max_Number.pdb
