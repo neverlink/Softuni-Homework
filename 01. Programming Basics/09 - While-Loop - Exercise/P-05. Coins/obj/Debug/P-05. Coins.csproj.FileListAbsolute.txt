@@ -1,0 +1,14 @@
+D:\!Projects\Softuni-Homework\01. Programming Basics\While-Loop - Exercise\P-05. Coins\bin\Debug\P_05.Coins.exe.config
+D:\!Projects\Softuni-Homework\01. Programming Basics\While-Loop - Exercise\P-05. Coins\bin\Debug\P_05.Coins.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\While-Loop - Exercise\P-05. Coins\bin\Debug\P_05.Coins.pdb
+D:\!Projects\Softuni-Homework\01. Programming Basics\While-Loop - Exercise\P-05. Coins\obj\Debug\P-05. Coins.csprojAssemblyReference.cache
+D:\!Projects\Softuni-Homework\01. Programming Basics\While-Loop - Exercise\P-05. Coins\obj\Debug\P-05. Coins.csproj.CoreCompileInputs.cache
+D:\!Projects\Softuni-Homework\01. Programming Basics\While-Loop - Exercise\P-05. Coins\obj\Debug\P_05.Coins.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\While-Loop - Exercise\P-05. Coins\obj\Debug\P_05.Coins.pdb
+D:\!Projects\Softuni-Homework\01. Programming Basics\09 - While-Loop - Exercise\P-05. Coins\bin\Debug\P_05.Coins.exe.config
+D:\!Projects\Softuni-Homework\01. Programming Basics\09 - While-Loop - Exercise\P-05. Coins\bin\Debug\P_05.Coins.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\09 - While-Loop - Exercise\P-05. Coins\bin\Debug\P_05.Coins.pdb
+D:\!Projects\Softuni-Homework\01. Programming Basics\09 - While-Loop - Exercise\P-05. Coins\obj\Debug\P-05. Coins.csprojAssemblyReference.cache
+D:\!Projects\Softuni-Homework\01. Programming Basics\09 - While-Loop - Exercise\P-05. Coins\obj\Debug\P-05. Coins.csproj.CoreCompileInputs.cache
+D:\!Projects\Softuni-Homework\01. Programming Basics\09 - While-Loop - Exercise\P-05. Coins\obj\Debug\P_05.Coins.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\09 - While-Loop - Exercise\P-05. Coins\obj\Debug\P_05.Coins.pdb

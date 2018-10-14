@@ -1,0 +1,14 @@
+D:\!Projects\Softuni-Homework\01. Programming Basics\While-Loop - Exercise\P-04. Vacation\bin\Debug\P_04.Vacation.exe.config
+D:\!Projects\Softuni-Homework\01. Programming Basics\While-Loop - Exercise\P-04. Vacation\bin\Debug\P_04.Vacation.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\While-Loop - Exercise\P-04. Vacation\bin\Debug\P_04.Vacation.pdb
+D:\!Projects\Softuni-Homework\01. Programming Basics\While-Loop - Exercise\P-04. Vacation\obj\Debug\P-04. Vacation.csprojAssemblyReference.cache
+D:\!Projects\Softuni-Homework\01. Programming Basics\While-Loop - Exercise\P-04. Vacation\obj\Debug\P-04. Vacation.csproj.CoreCompileInputs.cache
+D:\!Projects\Softuni-Homework\01. Programming Basics\While-Loop - Exercise\P-04. Vacation\obj\Debug\P_04.Vacation.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\While-Loop - Exercise\P-04. Vacation\obj\Debug\P_04.Vacation.pdb
+D:\!Projects\Softuni-Homework\01. Programming Basics\09 - While-Loop - Exercise\P-04. Vacation\bin\Debug\P_04.Vacation.exe.config
+D:\!Projects\Softuni-Homework\01. Programming Basics\09 - While-Loop - Exercise\P-04. Vacation\bin\Debug\P_04.Vacation.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\09 - While-Loop - Exercise\P-04. Vacation\bin\Debug\P_04.Vacation.pdb
+D:\!Projects\Softuni-Homework\01. Programming Basics\09 - While-Loop - Exercise\P-04. Vacation\obj\Debug\P-04. Vacation.csprojAssemblyReference.cache
+D:\!Projects\Softuni-Homework\01. Programming Basics\09 - While-Loop - Exercise\P-04. Vacation\obj\Debug\P-04. Vacation.csproj.CoreCompileInputs.cache
+D:\!Projects\Softuni-Homework\01. Programming Basics\09 - While-Loop - Exercise\P-04. Vacation\obj\Debug\P_04.Vacation.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\09 - While-Loop - Exercise\P-04. Vacation\obj\Debug\P_04.Vacation.pdb

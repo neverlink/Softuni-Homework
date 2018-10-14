@@ -1,0 +1,7 @@
+D:\!Projects\Softuni-Homework\01. Programming Basics\09 - While-Loop - Exercise\P-01. Greatest Common Divisor (CGD)\bin\Debug\P_01.Greatest_Common_Divisor__CGD_.exe.config
+D:\!Projects\Softuni-Homework\01. Programming Basics\09 - While-Loop - Exercise\P-01. Greatest Common Divisor (CGD)\bin\Debug\P_01.Greatest_Common_Divisor__CGD_.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\09 - While-Loop - Exercise\P-01. Greatest Common Divisor (CGD)\bin\Debug\P_01.Greatest_Common_Divisor__CGD_.pdb
+D:\!Projects\Softuni-Homework\01. Programming Basics\09 - While-Loop - Exercise\P-01. Greatest Common Divisor (CGD)\obj\Debug\P-01. Greatest Common Divisor (CGD).csprojAssemblyReference.cache
+D:\!Projects\Softuni-Homework\01. Programming Basics\09 - While-Loop - Exercise\P-01. Greatest Common Divisor (CGD)\obj\Debug\P-01. Greatest Common Divisor (CGD).csproj.CoreCompileInputs.cache
+D:\!Projects\Softuni-Homework\01. Programming Basics\09 - While-Loop - Exercise\P-01. Greatest Common Divisor (CGD)\obj\Debug\P_01.Greatest_Common_Divisor__CGD_.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\09 - While-Loop - Exercise\P-01. Greatest Common Divisor (CGD)\obj\Debug\P_01.Greatest_Common_Divisor__CGD_.pdb
