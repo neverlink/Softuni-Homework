@@ -1,0 +1,7 @@
+D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop - Exercise\P-01. Numbers Ending in 7\bin\Debug\P_01.Numbers_Ending_in_7.exe.config
+D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop - Exercise\P-01. Numbers Ending in 7\bin\Debug\P_01.Numbers_Ending_in_7.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop - Exercise\P-01. Numbers Ending in 7\bin\Debug\P_01.Numbers_Ending_in_7.pdb
+D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop - Exercise\P-01. Numbers Ending in 7\obj\Debug\P-01. Numbers Ending in 7.csprojAssemblyReference.cache
+D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop - Exercise\P-01. Numbers Ending in 7\obj\Debug\P-01. Numbers Ending in 7.csproj.CoreCompileInputs.cache
+D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop - Exercise\P-01. Numbers Ending in 7\obj\Debug\P_01.Numbers_Ending_in_7.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop - Exercise\P-01. Numbers Ending in 7\obj\Debug\P_01.Numbers_Ending_in_7.pdb

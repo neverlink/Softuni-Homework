@@ -1,0 +1,7 @@
+D:\!Projects\Softuni-Homework\01. Programming Basics\11- For-Loop - Exercise\P-03. Odd or Even Position\bin\Debug\P_03.Odd_or_Even_Position.exe.config
+D:\!Projects\Softuni-Homework\01. Programming Basics\11- For-Loop - Exercise\P-03. Odd or Even Position\bin\Debug\P_03.Odd_or_Even_Position.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\11- For-Loop - Exercise\P-03. Odd or Even Position\bin\Debug\P_03.Odd_or_Even_Position.pdb
+D:\!Projects\Softuni-Homework\01. Programming Basics\11- For-Loop - Exercise\P-03. Odd or Even Position\obj\Debug\P-03. Odd or Even Position.csprojAssemblyReference.cache
+D:\!Projects\Softuni-Homework\01. Programming Basics\11- For-Loop - Exercise\P-03. Odd or Even Position\obj\Debug\P-03. Odd or Even Position.csproj.CoreCompileInputs.cache
+D:\!Projects\Softuni-Homework\01. Programming Basics\11- For-Loop - Exercise\P-03. Odd or Even Position\obj\Debug\P_03.Odd_or_Even_Position.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\11- For-Loop - Exercise\P-03. Odd or Even Position\obj\Debug\P_03.Odd_or_Even_Position.pdb
