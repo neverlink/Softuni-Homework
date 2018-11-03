@@ -1,0 +1,7 @@
+D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-06. Travelling\bin\Debug\P_06.Travelling.exe.config
+D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-06. Travelling\bin\Debug\P_06.Travelling.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-06. Travelling\bin\Debug\P_06.Travelling.pdb
+D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-06. Travelling\obj\Debug\P-06. Travelling.csprojAssemblyReference.cache
+D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-06. Travelling\obj\Debug\P-06. Travelling.csproj.CoreCompileInputs.cache
+D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-06. Travelling\obj\Debug\P_06.Travelling.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-06. Travelling\obj\Debug\P_06.Travelling.pdb

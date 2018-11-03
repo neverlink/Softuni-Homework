@@ -1,0 +1,6 @@
+D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-09. Magic Numbers\obj\Debug\P-09. Magic Numbers.csproj.CoreCompileInputs.cache
+D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-09. Magic Numbers\bin\Debug\P_09.Magic_Numbers.exe.config
+D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-09. Magic Numbers\bin\Debug\P_09.Magic_Numbers.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-09. Magic Numbers\bin\Debug\P_09.Magic_Numbers.pdb
+D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-09. Magic Numbers\obj\Debug\P_09.Magic_Numbers.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-09. Magic Numbers\obj\Debug\P_09.Magic_Numbers.pdb

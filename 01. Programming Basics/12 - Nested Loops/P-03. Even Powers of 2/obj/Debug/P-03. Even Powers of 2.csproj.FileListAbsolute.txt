@@ -1,0 +1,6 @@
+D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-03. Even Powers of 2\bin\Debug\P_03.Even_Powers_of_2.exe.config
+D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-03. Even Powers of 2\bin\Debug\P_03.Even_Powers_of_2.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-03. Even Powers of 2\bin\Debug\P_03.Even_Powers_of_2.pdb
+D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-03. Even Powers of 2\obj\Debug\P-03. Even Powers of 2.csproj.CoreCompileInputs.cache
+D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-03. Even Powers of 2\obj\Debug\P_03.Even_Powers_of_2.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-03. Even Powers of 2\obj\Debug\P_03.Even_Powers_of_2.pdb
