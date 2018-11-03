@@ -1,0 +1,6 @@
+C:\Users\never\source\repos\14 - Exam preparation\P-02. Beer and Chips\bin\Debug\P_02.Beer_and_Chips.exe.config
+C:\Users\never\source\repos\14 - Exam preparation\P-02. Beer and Chips\bin\Debug\P_02.Beer_and_Chips.exe
+C:\Users\never\source\repos\14 - Exam preparation\P-02. Beer and Chips\bin\Debug\P_02.Beer_and_Chips.pdb
+C:\Users\never\source\repos\14 - Exam preparation\P-02. Beer and Chips\obj\Debug\P-02. Beer and Chips.csproj.CoreCompileInputs.cache
+C:\Users\never\source\repos\14 - Exam preparation\P-02. Beer and Chips\obj\Debug\P_02.Beer_and_Chips.exe
+C:\Users\never\source\repos\14 - Exam preparation\P-02. Beer and Chips\obj\Debug\P_02.Beer_and_Chips.pdb
