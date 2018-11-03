@@ -1,6 +1,6 @@
 # Softuni-Homework
 
-##### Includes all presentations, exercises, and my solutions to all of them.
+#### Includes all presentations, exercises, and my solutions to all of them.
 
 <details>
     <summary>Programming Basics with C# - September 2018 (<a href="https://softuni.bg/trainings/2073/programming-basics-with-csharp-september-2018">Link to course</a>)</summary>
