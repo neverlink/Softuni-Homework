@@ -1,0 +1,7 @@
+C:\Users\never\source\repos\Programming Basics Sample Exam - 28 October 2018\P-06. Multiply Table\bin\Debug\P_06.Multiply_Table.exe.config
+C:\Users\never\source\repos\Programming Basics Sample Exam - 28 October 2018\P-06. Multiply Table\bin\Debug\P_06.Multiply_Table.exe
+C:\Users\never\source\repos\Programming Basics Sample Exam - 28 October 2018\P-06. Multiply Table\bin\Debug\P_06.Multiply_Table.pdb
+C:\Users\never\source\repos\Programming Basics Sample Exam - 28 October 2018\P-06. Multiply Table\obj\Debug\P-06. Multiply Table.csprojAssemblyReference.cache
+C:\Users\never\source\repos\Programming Basics Sample Exam - 28 October 2018\P-06. Multiply Table\obj\Debug\P-06. Multiply Table.csproj.CoreCompileInputs.cache
+C:\Users\never\source\repos\Programming Basics Sample Exam - 28 October 2018\P-06. Multiply Table\obj\Debug\P_06.Multiply_Table.exe
+C:\Users\never\source\repos\Programming Basics Sample Exam - 28 October 2018\P-06. Multiply Table\obj\Debug\P_06.Multiply_Table.pdb
