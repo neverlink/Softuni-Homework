@@ -1,0 +1,7 @@
+D:\!Projects\Softuni-Homework\01. Programming Basics\Programming Basics Online Exam - 3 and 4 November 2018\P-01. Wedding Time\bin\Debug\P_01.Wedding_Time.exe.config
+D:\!Projects\Softuni-Homework\01. Programming Basics\Programming Basics Online Exam - 3 and 4 November 2018\P-01. Wedding Time\bin\Debug\P_01.Wedding_Time.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\Programming Basics Online Exam - 3 and 4 November 2018\P-01. Wedding Time\bin\Debug\P_01.Wedding_Time.pdb
+D:\!Projects\Softuni-Homework\01. Programming Basics\Programming Basics Online Exam - 3 and 4 November 2018\P-01. Wedding Time\obj\Debug\P-01. Wedding Time.csprojAssemblyReference.cache
+D:\!Projects\Softuni-Homework\01. Programming Basics\Programming Basics Online Exam - 3 and 4 November 2018\P-01. Wedding Time\obj\Debug\P-01. Wedding Time.csproj.CoreCompileInputs.cache
+D:\!Projects\Softuni-Homework\01. Programming Basics\Programming Basics Online Exam - 3 and 4 November 2018\P-01. Wedding Time\obj\Debug\P_01.Wedding_Time.exe
+D:\!Projects\Softuni-Homework\01. Programming Basics\Programming Basics Online Exam - 3 and 4 November 2018\P-01. Wedding Time\obj\Debug\P_01.Wedding_Time.pdb

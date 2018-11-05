@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P-01. Wedding Time", "P-01. Wedding Time\P-01. Wedding Time.csproj", "{F0DAB6B2-E2F9-4933-B392-458EF3839AAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P-02. Wedding Party", "P-02. Wedding Party\P-02. Wedding Party.csproj", "{46827C0A-9C25-4E42-84F2-FD253624FC4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P-03. Wedding Investment", "P-03. Wedding Investment\P-03. Wedding Investment.csproj", "{6775E5AA-4D51-4EE6-B5AC-8CDFEEF568FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P-04. Wedding Decoration", "P-04. Wedding Decoration\P-04. Wedding Decoration.csproj", "{FCEC7E55-C203-44DA-8511-9FB2AC64B320}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P-05. Wedding Presents", "P-05. Wedding Presents\P-05. Wedding Presents.csproj", "{B4961348-A385-4823-8988-A15BA9518F0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P-06. Wedding Seats", "P-06. Wedding Seats\P-06. Wedding Seats.csproj", "{62AA8DAE-334C-4983-8181-C71718CCA28C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0DAB6B2-E2F9-4933-B392-458EF3839AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0DAB6B2-E2F9-4933-B392-458EF3839AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0DAB6B2-E2F9-4933-B392-458EF3839AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0DAB6B2-E2F9-4933-B392-458EF3839AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46827C0A-9C25-4E42-84F2-FD253624FC4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46827C0A-9C25-4E42-84F2-FD253624FC4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46827C0A-9C25-4E42-84F2-FD253624FC4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46827C0A-9C25-4E42-84F2-FD253624FC4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6775E5AA-4D51-4EE6-B5AC-8CDFEEF568FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6775E5AA-4D51-4EE6-B5AC-8CDFEEF568FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6775E5AA-4D51-4EE6-B5AC-8CDFEEF568FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6775E5AA-4D51-4EE6-B5AC-8CDFEEF568FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCEC7E55-C203-44DA-8511-9FB2AC64B320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCEC7E55-C203-44DA-8511-9FB2AC64B320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCEC7E55-C203-44DA-8511-9FB2AC64B320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCEC7E55-C203-44DA-8511-9FB2AC64B320}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4961348-A385-4823-8988-A15BA9518F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4961348-A385-4823-8988-A15BA9518F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4961348-A385-4823-8988-A15BA9518F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4961348-A385-4823-8988-A15BA9518F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62AA8DAE-334C-4983-8181-C71718CCA28C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62AA8DAE-334C-4983-8181-C71718CCA28C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62AA8DAE-334C-4983-8181-C71718CCA28C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62AA8DAE-334C-4983-8181-C71718CCA28C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9938159-D333-47D5-9F10-7A47C03A673D}
+	EndGlobalSection
+EndGlobal
