@@ -16,23 +16,23 @@ namespace P_06.Wedding_Seats
             int seatsPerEvenSector = seatsPerOddSector + 2;
             int count = 0;
 
-            for (char i = 'A'; i <= lastSector; i++)
+            for (char sector = 'A'; sector <= lastSector; sector++)
             {
-                for (int j = 1; j <= rowsPerSector; j++)
+                for (int row = 1; row <= rowsPerSector; row++)
                 {
-                    if (j % 2 == 0)
+                    if (row % 2 == 0)
                     {
-                        for (char k = 'a'; k < 'a' + seatsPerEvenSector; k++)
+                        for (char seat = 'a'; seat < 'a' + seatsPerEvenSector; seat++)
                         {
-                            Console.WriteLine($"{i}{j}{k}");
+                            Console.WriteLine($"{sector}{row}{seat}");
                             count++;
                         }
                     }
                     else
                     {
-                        for (char k = 'a'; k < 'a' + seatsPerOddSector; k++)
+                        for (char seat = 'a'; seat < 'a' + seatsPerOddSector; seat++)
                         {
-                            Console.WriteLine($"{i}{j}{k}");
+                            Console.WriteLine($"{sector}{row}{seat}");
                             count++;
                         }
                     }
