@@ -24,6 +24,6 @@
         </ol>
 </details>
 <details>
-    <summary>Tech Module 4.0</summary>
+    <summary>Programming Fundamentals with C# - January 2022</summary>
     <ul><li>Soon™</li></ul>
 </details>
