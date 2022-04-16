@@ -1,6 +1,0 @@
-D:\!Projects\Softuni-Homework\01. Programming Basics\First Steps in Coding\P-03. Nums 1-20\bin\Debug\P_03.Nums_1_20.exe.config
-D:\!Projects\Softuni-Homework\01. Programming Basics\First Steps in Coding\P-03. Nums 1-20\bin\Debug\P_03.Nums_1_20.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\First Steps in Coding\P-03. Nums 1-20\bin\Debug\P_03.Nums_1_20.pdb
-D:\!Projects\Softuni-Homework\01. Programming Basics\First Steps in Coding\P-03. Nums 1-20\obj\Debug\P-03. Nums 1-20.csproj.CoreCompileInputs.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\First Steps in Coding\P-03. Nums 1-20\obj\Debug\P_03.Nums_1_20.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\First Steps in Coding\P-03. Nums 1-20\obj\Debug\P_03.Nums_1_20.pdb

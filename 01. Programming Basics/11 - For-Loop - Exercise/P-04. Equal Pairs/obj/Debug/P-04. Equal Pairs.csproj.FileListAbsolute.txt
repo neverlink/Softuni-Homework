@@ -1,7 +1,0 @@
-D:\!Projects\Softuni-Homework\01. Programming Basics\11- For-Loop - Exercise\P-04. Equal Pairs\bin\Debug\P_04.Equal_Pairs.exe.config
-D:\!Projects\Softuni-Homework\01. Programming Basics\11- For-Loop - Exercise\P-04. Equal Pairs\bin\Debug\P_04.Equal_Pairs.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\11- For-Loop - Exercise\P-04. Equal Pairs\bin\Debug\P_04.Equal_Pairs.pdb
-D:\!Projects\Softuni-Homework\01. Programming Basics\11- For-Loop - Exercise\P-04. Equal Pairs\obj\Debug\P-04. Equal Pairs.csprojAssemblyReference.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\11- For-Loop - Exercise\P-04. Equal Pairs\obj\Debug\P-04. Equal Pairs.csproj.CoreCompileInputs.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\11- For-Loop - Exercise\P-04. Equal Pairs\obj\Debug\P_04.Equal_Pairs.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\11- For-Loop - Exercise\P-04. Equal Pairs\obj\Debug\P_04.Equal_Pairs.pdb

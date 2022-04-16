@@ -1,6 +1,0 @@
-D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-01 Numbers N to 1\bin\Debug\P-01 Numbers N to 1.exe.config
-D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-01 Numbers N to 1\bin\Debug\P-01 Numbers N to 1.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-01 Numbers N to 1\bin\Debug\P-01 Numbers N to 1.pdb
-D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-01 Numbers N to 1\obj\Debug\P-01. Numbers N to 1.csproj.CoreCompileInputs.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-01 Numbers N to 1\obj\Debug\P-01 Numbers N to 1.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-01 Numbers N to 1\obj\Debug\P-01 Numbers N to 1.pdb

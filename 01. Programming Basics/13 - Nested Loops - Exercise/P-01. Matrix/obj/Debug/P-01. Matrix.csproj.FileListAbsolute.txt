@@ -1,7 +1,0 @@
-D:\!Projects\Softuni-Homework\01. Programming Basics\13 - Nested Loops - Exercise\P-01. Matrix\obj\Debug\P-01. Matrix.csprojAssemblyReference.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\13 - Nested Loops - Exercise\P-01. Matrix\obj\Debug\P-01. Matrix.csproj.CoreCompileInputs.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\13 - Nested Loops - Exercise\P-01. Matrix\bin\Debug\P_01.Matrix.exe.config
-D:\!Projects\Softuni-Homework\01. Programming Basics\13 - Nested Loops - Exercise\P-01. Matrix\bin\Debug\P_01.Matrix.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\13 - Nested Loops - Exercise\P-01. Matrix\bin\Debug\P_01.Matrix.pdb
-D:\!Projects\Softuni-Homework\01. Programming Basics\13 - Nested Loops - Exercise\P-01. Matrix\obj\Debug\P_01.Matrix.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\13 - Nested Loops - Exercise\P-01. Matrix\obj\Debug\P_01.Matrix.pdb

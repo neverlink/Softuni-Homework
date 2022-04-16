@@ -1,7 +1,0 @@
-D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-07. Name Wars\bin\Debug\P_07.Name_Wars.exe.config
-D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-07. Name Wars\bin\Debug\P_07.Name_Wars.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-07. Name Wars\bin\Debug\P_07.Name_Wars.pdb
-D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-07. Name Wars\obj\Debug\P-07. Name Wars.csprojAssemblyReference.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-07. Name Wars\obj\Debug\P-07. Name Wars.csproj.CoreCompileInputs.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-07. Name Wars\obj\Debug\P_07.Name_Wars.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-07. Name Wars\obj\Debug\P_07.Name_Wars.pdb

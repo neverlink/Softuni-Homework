@@ -1,6 +1,0 @@
-C:\Users\never\source\repos\14 - Exam preparation\P-04 Group Stage\bin\Debug\P-04 Group Stage.exe.config
-C:\Users\never\source\repos\14 - Exam preparation\P-04 Group Stage\bin\Debug\P-04 Group Stage.exe
-C:\Users\never\source\repos\14 - Exam preparation\P-04 Group Stage\bin\Debug\P-04 Group Stage.pdb
-C:\Users\never\source\repos\14 - Exam preparation\P-04 Group Stage\obj\Debug\P-04 Group Stage.csproj.CoreCompileInputs.cache
-C:\Users\never\source\repos\14 - Exam preparation\P-04 Group Stage\obj\Debug\P-04 Group Stage.exe
-C:\Users\never\source\repos\14 - Exam preparation\P-04 Group Stage\obj\Debug\P-04 Group Stage.pdb

@@ -1,7 +1,0 @@
-D:\!Projects\Softuni-Homework\01. Programming Basics\09 - While-Loop - Exercise\P-06. Cake\bin\Debug\P_06.Cake.exe.config
-D:\!Projects\Softuni-Homework\01. Programming Basics\09 - While-Loop - Exercise\P-06. Cake\bin\Debug\P_06.Cake.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\09 - While-Loop - Exercise\P-06. Cake\bin\Debug\P_06.Cake.pdb
-D:\!Projects\Softuni-Homework\01. Programming Basics\09 - While-Loop - Exercise\P-06. Cake\obj\Debug\P-06. Cake.csprojAssemblyReference.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\09 - While-Loop - Exercise\P-06. Cake\obj\Debug\P-06. Cake.csproj.CoreCompileInputs.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\09 - While-Loop - Exercise\P-06. Cake\obj\Debug\P_06.Cake.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\09 - While-Loop - Exercise\P-06. Cake\obj\Debug\P_06.Cake.pdb

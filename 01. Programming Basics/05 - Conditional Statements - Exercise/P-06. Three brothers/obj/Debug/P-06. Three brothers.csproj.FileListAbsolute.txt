@@ -1,7 +1,0 @@
-D:\!Projects\Softuni-Homework\01. Programming Basics\05 - Conditional Statements - Exercise\P-06. Three brothers\bin\Debug\P_06.Three_brothers.exe.config
-D:\!Projects\Softuni-Homework\01. Programming Basics\05 - Conditional Statements - Exercise\P-06. Three brothers\bin\Debug\P_06.Three_brothers.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\05 - Conditional Statements - Exercise\P-06. Three brothers\bin\Debug\P_06.Three_brothers.pdb
-D:\!Projects\Softuni-Homework\01. Programming Basics\05 - Conditional Statements - Exercise\P-06. Three brothers\obj\Debug\P-06. Three brothers.csprojAssemblyReference.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\05 - Conditional Statements - Exercise\P-06. Three brothers\obj\Debug\P-06. Three brothers.csproj.CoreCompileInputs.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\05 - Conditional Statements - Exercise\P-06. Three brothers\obj\Debug\P_06.Three_brothers.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\05 - Conditional Statements - Exercise\P-06. Three brothers\obj\Debug\P_06.Three_brothers.pdb

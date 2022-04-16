@@ -1,6 +1,0 @@
-D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop\P-03. Sum Numbers\bin\Debug\P_03.Sum_Numbers.exe.config
-D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop\P-03. Sum Numbers\bin\Debug\P_03.Sum_Numbers.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop\P-03. Sum Numbers\bin\Debug\P_03.Sum_Numbers.pdb
-D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop\P-03. Sum Numbers\obj\Debug\P-03. Sum Numbers.csproj.CoreCompileInputs.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop\P-03. Sum Numbers\obj\Debug\P_03.Sum_Numbers.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop\P-03. Sum Numbers\obj\Debug\P_03.Sum_Numbers.pdb

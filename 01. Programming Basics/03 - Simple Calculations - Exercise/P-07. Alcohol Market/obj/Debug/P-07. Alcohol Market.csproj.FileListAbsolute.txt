@@ -1,6 +1,0 @@
-D:\!Projects\Softuni-Homework\01. Programming Basics\Simple Operations and Calculations - Exercise\P-07. Alcohol Market\bin\Debug\P_07.Alcohol_Market.exe.config
-D:\!Projects\Softuni-Homework\01. Programming Basics\Simple Operations and Calculations - Exercise\P-07. Alcohol Market\bin\Debug\P_07.Alcohol_Market.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\Simple Operations and Calculations - Exercise\P-07. Alcohol Market\bin\Debug\P_07.Alcohol_Market.pdb
-D:\!Projects\Softuni-Homework\01. Programming Basics\Simple Operations and Calculations - Exercise\P-07. Alcohol Market\obj\Debug\P-07. Alcohol Market.csproj.CoreCompileInputs.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\Simple Operations and Calculations - Exercise\P-07. Alcohol Market\obj\Debug\P_07.Alcohol_Market.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\Simple Operations and Calculations - Exercise\P-07. Alcohol Market\obj\Debug\P_07.Alcohol_Market.pdb

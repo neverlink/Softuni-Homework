@@ -1,7 +1,0 @@
-D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-04. Building\bin\Debug\P_04.Building.exe.config
-D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-04. Building\bin\Debug\P_04.Building.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-04. Building\bin\Debug\P_04.Building.pdb
-D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-04. Building\obj\Debug\P-04. Building.csprojAssemblyReference.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-04. Building\obj\Debug\P-04. Building.csproj.CoreCompileInputs.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-04. Building\obj\Debug\P_04.Building.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-04. Building\obj\Debug\P_04.Building.pdb

@@ -1,7 +1,0 @@
-D:\!Projects\Softuni-Homework\08 - While Loop\P-01. Number in Range 1-100\bin\Debug\P_01.Number_in_Range_1_100.exe.config
-D:\!Projects\Softuni-Homework\08 - While Loop\P-01. Number in Range 1-100\bin\Debug\P_01.Number_in_Range_1_100.exe
-D:\!Projects\Softuni-Homework\08 - While Loop\P-01. Number in Range 1-100\bin\Debug\P_01.Number_in_Range_1_100.pdb
-D:\!Projects\Softuni-Homework\08 - While Loop\P-01. Number in Range 1-100\obj\Debug\P-01. Number in Range 1-100.csprojAssemblyReference.cache
-D:\!Projects\Softuni-Homework\08 - While Loop\P-01. Number in Range 1-100\obj\Debug\P-01. Number in Range 1-100.csproj.CoreCompileInputs.cache
-D:\!Projects\Softuni-Homework\08 - While Loop\P-01. Number in Range 1-100\obj\Debug\P_01.Number_in_Range_1_100.exe
-D:\!Projects\Softuni-Homework\08 - While Loop\P-01. Number in Range 1-100\obj\Debug\P_01.Number_in_Range_1_100.pdb

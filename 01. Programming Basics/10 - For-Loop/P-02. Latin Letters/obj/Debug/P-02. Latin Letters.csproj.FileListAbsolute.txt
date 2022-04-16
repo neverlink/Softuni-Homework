@@ -1,6 +1,0 @@
-D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop\P-02. Latin Letters\bin\Debug\P_02.Latin_Letters.exe.config
-D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop\P-02. Latin Letters\bin\Debug\P_02.Latin_Letters.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop\P-02. Latin Letters\bin\Debug\P_02.Latin_Letters.pdb
-D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop\P-02. Latin Letters\obj\Debug\P-02. Latin Letters.csproj.CoreCompileInputs.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop\P-02. Latin Letters\obj\Debug\P_02.Latin_Letters.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop\P-02. Latin Letters\obj\Debug\P_02.Latin_Letters.pdb

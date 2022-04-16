@@ -1,7 +1,0 @@
-D:\!Projects\Softuni-Homework\01. Programming Basics\Simple Operations and Calculations - Exercise\P-01. 2D Rectangle Area\bin\Debug\P-01. 2D Rectangle Area.exe.config
-D:\!Projects\Softuni-Homework\01. Programming Basics\Simple Operations and Calculations - Exercise\P-01. 2D Rectangle Area\bin\Debug\P-01. 2D Rectangle Area.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\Simple Operations and Calculations - Exercise\P-01. 2D Rectangle Area\bin\Debug\P-01. 2D Rectangle Area.pdb
-D:\!Projects\Softuni-Homework\01. Programming Basics\Simple Operations and Calculations - Exercise\P-01. 2D Rectangle Area\obj\Debug\P-01. 2D Rectangle Area.csprojAssemblyReference.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\Simple Operations and Calculations - Exercise\P-01. 2D Rectangle Area\obj\Debug\P-01. 2D Rectangle Area.csproj.CoreCompileInputs.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\Simple Operations and Calculations - Exercise\P-01. 2D Rectangle Area\obj\Debug\P-01. 2D Rectangle Area.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\Simple Operations and Calculations - Exercise\P-01. 2D Rectangle Area\obj\Debug\P-01. 2D Rectangle Area.pdb

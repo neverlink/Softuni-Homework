@@ -1,7 +1,0 @@
-D:\!Projects\Softuni-Homework\01. Programming Basics\11- For-Loop - Exercise\P-05. Histogram\bin\Debug\P_05.Histogram.exe.config
-D:\!Projects\Softuni-Homework\01. Programming Basics\11- For-Loop - Exercise\P-05. Histogram\bin\Debug\P_05.Histogram.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\11- For-Loop - Exercise\P-05. Histogram\bin\Debug\P_05.Histogram.pdb
-D:\!Projects\Softuni-Homework\01. Programming Basics\11- For-Loop - Exercise\P-05. Histogram\obj\Debug\P-05. Histogram.csprojAssemblyReference.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\11- For-Loop - Exercise\P-05. Histogram\obj\Debug\P-05. Histogram.csproj.CoreCompileInputs.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\11- For-Loop - Exercise\P-05. Histogram\obj\Debug\P_05.Histogram.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\11- For-Loop - Exercise\P-05. Histogram\obj\Debug\P_05.Histogram.pdb

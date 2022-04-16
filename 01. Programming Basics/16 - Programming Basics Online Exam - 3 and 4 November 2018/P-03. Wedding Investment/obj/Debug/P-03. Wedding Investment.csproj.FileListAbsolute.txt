@@ -1,6 +1,0 @@
-D:\!Projects\Softuni-Homework\01. Programming Basics\Programming Basics Online Exam - 3 and 4 November 2018\P-03. Wedding Investment\bin\Debug\P_03.Wedding_Investment.exe.config
-D:\!Projects\Softuni-Homework\01. Programming Basics\Programming Basics Online Exam - 3 and 4 November 2018\P-03. Wedding Investment\bin\Debug\P_03.Wedding_Investment.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\Programming Basics Online Exam - 3 and 4 November 2018\P-03. Wedding Investment\bin\Debug\P_03.Wedding_Investment.pdb
-D:\!Projects\Softuni-Homework\01. Programming Basics\Programming Basics Online Exam - 3 and 4 November 2018\P-03. Wedding Investment\obj\Debug\P-03. Wedding Investment.csproj.CoreCompileInputs.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\Programming Basics Online Exam - 3 and 4 November 2018\P-03. Wedding Investment\obj\Debug\P_03.Wedding_Investment.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\Programming Basics Online Exam - 3 and 4 November 2018\P-03. Wedding Investment\obj\Debug\P_03.Wedding_Investment.pdb

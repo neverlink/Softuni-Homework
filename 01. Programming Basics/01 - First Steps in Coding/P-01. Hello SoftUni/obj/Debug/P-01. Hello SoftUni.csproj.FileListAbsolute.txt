@@ -1,7 +1,0 @@
-D:\!Projects\Softuni-Homework\01. Programming Basics\First Steps in Coding\P-01. Hello SoftUni\bin\Debug\P_01.Hello_SoftUni.exe.config
-D:\!Projects\Softuni-Homework\01. Programming Basics\First Steps in Coding\P-01. Hello SoftUni\bin\Debug\P_01.Hello_SoftUni.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\First Steps in Coding\P-01. Hello SoftUni\bin\Debug\P_01.Hello_SoftUni.pdb
-D:\!Projects\Softuni-Homework\01. Programming Basics\First Steps in Coding\P-01. Hello SoftUni\obj\Debug\P-01. Hello SoftUni.csprojAssemblyReference.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\First Steps in Coding\P-01. Hello SoftUni\obj\Debug\P-01. Hello SoftUni.csproj.CoreCompileInputs.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\First Steps in Coding\P-01. Hello SoftUni\obj\Debug\P_01.Hello_SoftUni.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\First Steps in Coding\P-01. Hello SoftUni\obj\Debug\P_01.Hello_SoftUni.pdb

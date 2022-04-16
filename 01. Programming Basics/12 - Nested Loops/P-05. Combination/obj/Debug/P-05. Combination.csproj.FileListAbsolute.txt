@@ -1,6 +1,0 @@
-D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-05. Combination\bin\Debug\P_05.Combination.exe.config
-D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-05. Combination\bin\Debug\P_05.Combination.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-05. Combination\bin\Debug\P_05.Combination.pdb
-D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-05. Combination\obj\Debug\P-05. Combination.csproj.CoreCompileInputs.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-05. Combination\obj\Debug\P_05.Combination.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-05. Combination\obj\Debug\P_05.Combination.pdb

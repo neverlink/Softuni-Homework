@@ -1,6 +1,0 @@
-C:\Users\never\source\repos\Programming Basics Sample Exam - 28 October 2018\P-05. Bus\obj\Debug\P-05. Bus.csproj.CoreCompileInputs.cache
-C:\Users\never\source\repos\Programming Basics Sample Exam - 28 October 2018\P-05. Bus\bin\Debug\P_05.Bus.exe.config
-C:\Users\never\source\repos\Programming Basics Sample Exam - 28 October 2018\P-05. Bus\bin\Debug\P_05.Bus.exe
-C:\Users\never\source\repos\Programming Basics Sample Exam - 28 October 2018\P-05. Bus\bin\Debug\P_05.Bus.pdb
-C:\Users\never\source\repos\Programming Basics Sample Exam - 28 October 2018\P-05. Bus\obj\Debug\P_05.Bus.exe
-C:\Users\never\source\repos\Programming Basics Sample Exam - 28 October 2018\P-05. Bus\obj\Debug\P_05.Bus.pdb

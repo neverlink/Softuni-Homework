@@ -1,7 +1,0 @@
-D:\!Projects\Softuni-Homework\01. Programming Basics\07 - Nested Conditional Statements - Exercise\P-07. On Time for the Exam\bin\Debug\P_07.On_Time_for_the_Exam.exe.config
-D:\!Projects\Softuni-Homework\01. Programming Basics\07 - Nested Conditional Statements - Exercise\P-07. On Time for the Exam\bin\Debug\P_07.On_Time_for_the_Exam.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\07 - Nested Conditional Statements - Exercise\P-07. On Time for the Exam\bin\Debug\P_07.On_Time_for_the_Exam.pdb
-D:\!Projects\Softuni-Homework\01. Programming Basics\07 - Nested Conditional Statements - Exercise\P-07. On Time for the Exam\obj\Debug\P-07. On Time for the Exam.csprojAssemblyReference.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\07 - Nested Conditional Statements - Exercise\P-07. On Time for the Exam\obj\Debug\P-07. On Time for the Exam.csproj.CoreCompileInputs.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\07 - Nested Conditional Statements - Exercise\P-07. On Time for the Exam\obj\Debug\P_07.On_Time_for_the_Exam.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\07 - Nested Conditional Statements - Exercise\P-07. On Time for the Exam\obj\Debug\P_07.On_Time_for_the_Exam.pdb

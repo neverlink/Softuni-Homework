@@ -1,7 +1,0 @@
-D:\!Projects\Softuni-Homework\01. Programming Basics\07 - Nested Conditional Statements - Exercise\P-05. New House\bin\Debug\P_05.New_House.exe.config
-D:\!Projects\Softuni-Homework\01. Programming Basics\07 - Nested Conditional Statements - Exercise\P-05. New House\bin\Debug\P_05.New_House.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\07 - Nested Conditional Statements - Exercise\P-05. New House\bin\Debug\P_05.New_House.pdb
-D:\!Projects\Softuni-Homework\01. Programming Basics\07 - Nested Conditional Statements - Exercise\P-05. New House\obj\Debug\P-05. New House.csprojAssemblyReference.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\07 - Nested Conditional Statements - Exercise\P-05. New House\obj\Debug\P-05. New House.csproj.CoreCompileInputs.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\07 - Nested Conditional Statements - Exercise\P-05. New House\obj\Debug\P_05.New_House.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\07 - Nested Conditional Statements - Exercise\P-05. New House\obj\Debug\P_05.New_House.pdb

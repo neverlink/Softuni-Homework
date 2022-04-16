@@ -1,7 +1,0 @@
-D:\!Projects\Softuni-Homework\01. Programming Basics\05 - Conditional Statements - Exercise\P-05. Time + 15 Minutes\bin\Debug\P_05.Time___15_Minutes.exe.config
-D:\!Projects\Softuni-Homework\01. Programming Basics\05 - Conditional Statements - Exercise\P-05. Time + 15 Minutes\bin\Debug\P_05.Time___15_Minutes.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\05 - Conditional Statements - Exercise\P-05. Time + 15 Minutes\bin\Debug\P_05.Time___15_Minutes.pdb
-D:\!Projects\Softuni-Homework\01. Programming Basics\05 - Conditional Statements - Exercise\P-05. Time + 15 Minutes\obj\Debug\P-05. Time + 15 Minutes.csprojAssemblyReference.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\05 - Conditional Statements - Exercise\P-05. Time + 15 Minutes\obj\Debug\P-05. Time + 15 Minutes.csproj.CoreCompileInputs.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\05 - Conditional Statements - Exercise\P-05. Time + 15 Minutes\obj\Debug\P_05.Time___15_Minutes.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\05 - Conditional Statements - Exercise\P-05. Time + 15 Minutes\obj\Debug\P_05.Time___15_Minutes.pdb

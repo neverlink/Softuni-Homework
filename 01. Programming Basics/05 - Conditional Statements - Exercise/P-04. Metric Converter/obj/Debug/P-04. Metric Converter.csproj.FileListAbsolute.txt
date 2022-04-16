@@ -1,7 +1,0 @@
-C:\Users\never\source\repos\05 - Conditional Statements - Exercise\P-04. Metric Converter\bin\Debug\P_04.Metric_Converter.exe.config
-C:\Users\never\source\repos\05 - Conditional Statements - Exercise\P-04. Metric Converter\bin\Debug\P_04.Metric_Converter.exe
-C:\Users\never\source\repos\05 - Conditional Statements - Exercise\P-04. Metric Converter\bin\Debug\P_04.Metric_Converter.pdb
-C:\Users\never\source\repos\05 - Conditional Statements - Exercise\P-04. Metric Converter\obj\Debug\P-04. Metric Converter.csprojAssemblyReference.cache
-C:\Users\never\source\repos\05 - Conditional Statements - Exercise\P-04. Metric Converter\obj\Debug\P-04. Metric Converter.csproj.CoreCompileInputs.cache
-C:\Users\never\source\repos\05 - Conditional Statements - Exercise\P-04. Metric Converter\obj\Debug\P_04.Metric_Converter.exe
-C:\Users\never\source\repos\05 - Conditional Statements - Exercise\P-04. Metric Converter\obj\Debug\P_04.Metric_Converter.pdb

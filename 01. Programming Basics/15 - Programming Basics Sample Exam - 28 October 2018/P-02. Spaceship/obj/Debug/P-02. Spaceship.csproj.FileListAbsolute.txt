@@ -1,6 +1,0 @@
-C:\Users\never\source\repos\Programming Basics Sample Exam - 28 October 2018\P-02. Spaceship\bin\Debug\P_02.Spaceship.exe.config
-C:\Users\never\source\repos\Programming Basics Sample Exam - 28 October 2018\P-02. Spaceship\bin\Debug\P_02.Spaceship.exe
-C:\Users\never\source\repos\Programming Basics Sample Exam - 28 October 2018\P-02. Spaceship\bin\Debug\P_02.Spaceship.pdb
-C:\Users\never\source\repos\Programming Basics Sample Exam - 28 October 2018\P-02. Spaceship\obj\Debug\P-02. Spaceship.csproj.CoreCompileInputs.cache
-C:\Users\never\source\repos\Programming Basics Sample Exam - 28 October 2018\P-02. Spaceship\obj\Debug\P_02.Spaceship.exe
-C:\Users\never\source\repos\Programming Basics Sample Exam - 28 October 2018\P-02. Spaceship\obj\Debug\P_02.Spaceship.pdb

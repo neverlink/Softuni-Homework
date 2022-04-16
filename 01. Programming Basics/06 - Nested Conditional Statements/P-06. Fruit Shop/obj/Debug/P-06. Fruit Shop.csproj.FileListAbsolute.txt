@@ -1,7 +1,0 @@
-D:\!Projects\Softuni-Homework\01. Programming Basics\06 - Nested Conditional Statements\P-06. Fruit Shop\bin\Debug\P_06.Fruit_Shop.exe.config
-D:\!Projects\Softuni-Homework\01. Programming Basics\06 - Nested Conditional Statements\P-06. Fruit Shop\bin\Debug\P_06.Fruit_Shop.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\06 - Nested Conditional Statements\P-06. Fruit Shop\bin\Debug\P_06.Fruit_Shop.pdb
-D:\!Projects\Softuni-Homework\01. Programming Basics\06 - Nested Conditional Statements\P-06. Fruit Shop\obj\Debug\P-06. Fruit Shop.csprojAssemblyReference.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\06 - Nested Conditional Statements\P-06. Fruit Shop\obj\Debug\P-06. Fruit Shop.csproj.CoreCompileInputs.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\06 - Nested Conditional Statements\P-06. Fruit Shop\obj\Debug\P_06.Fruit_Shop.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\06 - Nested Conditional Statements\P-06. Fruit Shop\obj\Debug\P_06.Fruit_Shop.pdb

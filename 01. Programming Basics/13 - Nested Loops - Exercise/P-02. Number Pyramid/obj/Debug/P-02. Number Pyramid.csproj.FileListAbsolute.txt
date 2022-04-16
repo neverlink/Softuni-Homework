@@ -1,7 +1,0 @@
-D:\!Projects\Softuni-Homework\01. Programming Basics\13 - Nested Loops - Exercise\P-02. Number Pyramid\bin\Debug\P_02.Number_Pyramid.exe.config
-D:\!Projects\Softuni-Homework\01. Programming Basics\13 - Nested Loops - Exercise\P-02. Number Pyramid\bin\Debug\P_02.Number_Pyramid.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\13 - Nested Loops - Exercise\P-02. Number Pyramid\bin\Debug\P_02.Number_Pyramid.pdb
-D:\!Projects\Softuni-Homework\01. Programming Basics\13 - Nested Loops - Exercise\P-02. Number Pyramid\obj\Debug\P-02. Number Pyramid.csproj.CoreCompileInputs.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\13 - Nested Loops - Exercise\P-02. Number Pyramid\obj\Debug\P_02.Number_Pyramid.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\13 - Nested Loops - Exercise\P-02. Number Pyramid\obj\Debug\P_02.Number_Pyramid.pdb
-D:\!Projects\Softuni-Homework\01. Programming Basics\13 - Nested Loops - Exercise\P-02. Number Pyramid\obj\Debug\P-02. Number Pyramid.csprojAssemblyReference.cache

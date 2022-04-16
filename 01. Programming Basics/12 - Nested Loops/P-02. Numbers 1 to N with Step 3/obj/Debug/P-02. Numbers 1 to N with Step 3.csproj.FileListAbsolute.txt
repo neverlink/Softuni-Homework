@@ -1,6 +1,0 @@
-D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-02. Numbers 1 to N with Step 3\bin\Debug\P_02.Numbers_1_to_N_with_Step_3.exe.config
-D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-02. Numbers 1 to N with Step 3\bin\Debug\P_02.Numbers_1_to_N_with_Step_3.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-02. Numbers 1 to N with Step 3\bin\Debug\P_02.Numbers_1_to_N_with_Step_3.pdb
-D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-02. Numbers 1 to N with Step 3\obj\Debug\P-02. Numbers 1 to N with Step 3.csproj.CoreCompileInputs.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-02. Numbers 1 to N with Step 3\obj\Debug\P_02.Numbers_1_to_N_with_Step_3.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-02. Numbers 1 to N with Step 3\obj\Debug\P_02.Numbers_1_to_N_with_Step_3.pdb

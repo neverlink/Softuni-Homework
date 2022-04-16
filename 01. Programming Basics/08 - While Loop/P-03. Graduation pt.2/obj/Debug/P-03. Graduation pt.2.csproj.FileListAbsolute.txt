@@ -1,7 +1,0 @@
-D:\!Projects\Softuni-Homework\08 - While Loop\P-03. Graduation pt.2\bin\Debug\P_03.Graduation_pt._2.exe.config
-D:\!Projects\Softuni-Homework\08 - While Loop\P-03. Graduation pt.2\bin\Debug\P_03.Graduation_pt._2.exe
-D:\!Projects\Softuni-Homework\08 - While Loop\P-03. Graduation pt.2\bin\Debug\P_03.Graduation_pt._2.pdb
-D:\!Projects\Softuni-Homework\08 - While Loop\P-03. Graduation pt.2\obj\Debug\P-03. Graduation pt.2.csprojAssemblyReference.cache
-D:\!Projects\Softuni-Homework\08 - While Loop\P-03. Graduation pt.2\obj\Debug\P-03. Graduation pt.2.csproj.CoreCompileInputs.cache
-D:\!Projects\Softuni-Homework\08 - While Loop\P-03. Graduation pt.2\obj\Debug\P_03.Graduation_pt._2.exe
-D:\!Projects\Softuni-Homework\08 - While Loop\P-03. Graduation pt.2\obj\Debug\P_03.Graduation_pt._2.pdb

@@ -1,7 +1,0 @@
-D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop\P-08. Vowels Sum\bin\Debug\P_08.Vowels_Sum.exe.config
-D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop\P-08. Vowels Sum\bin\Debug\P_08.Vowels_Sum.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop\P-08. Vowels Sum\bin\Debug\P_08.Vowels_Sum.pdb
-D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop\P-08. Vowels Sum\obj\Debug\P-08. Vowels Sum.csprojAssemblyReference.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop\P-08. Vowels Sum\obj\Debug\P-08. Vowels Sum.csproj.CoreCompileInputs.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop\P-08. Vowels Sum\obj\Debug\P_08.Vowels_Sum.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\For-Loop\P-08. Vowels Sum\obj\Debug\P_08.Vowels_Sum.pdb

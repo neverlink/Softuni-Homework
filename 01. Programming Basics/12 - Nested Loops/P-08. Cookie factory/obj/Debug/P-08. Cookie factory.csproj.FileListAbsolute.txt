@@ -1,7 +1,0 @@
-D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-08. Cookie factory\bin\Debug\P_08.Cookie_factory.exe.config
-D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-08. Cookie factory\bin\Debug\P_08.Cookie_factory.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-08. Cookie factory\bin\Debug\P_08.Cookie_factory.pdb
-D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-08. Cookie factory\obj\Debug\P-08. Cookie factory.csprojAssemblyReference.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-08. Cookie factory\obj\Debug\P-08. Cookie factory.csproj.CoreCompileInputs.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-08. Cookie factory\obj\Debug\P_08.Cookie_factory.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\12 - Nested Loops\P-08. Cookie factory\obj\Debug\P_08.Cookie_factory.pdb

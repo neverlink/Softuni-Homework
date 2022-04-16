@@ -1,6 +1,0 @@
-D:\!Projects\Softuni-Homework\01. Programming Basics\Simple Operations and Calculations - Exercise\P-06. Charity Campaign\bin\Debug\P_06.Charity_Campaign.exe.config
-D:\!Projects\Softuni-Homework\01. Programming Basics\Simple Operations and Calculations - Exercise\P-06. Charity Campaign\bin\Debug\P_06.Charity_Campaign.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\Simple Operations and Calculations - Exercise\P-06. Charity Campaign\bin\Debug\P_06.Charity_Campaign.pdb
-D:\!Projects\Softuni-Homework\01. Programming Basics\Simple Operations and Calculations - Exercise\P-06. Charity Campaign\obj\Debug\P-06. Charity Campaign.csproj.CoreCompileInputs.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\Simple Operations and Calculations - Exercise\P-06. Charity Campaign\obj\Debug\P_06.Charity_Campaign.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\Simple Operations and Calculations - Exercise\P-06. Charity Campaign\obj\Debug\P_06.Charity_Campaign.pdb

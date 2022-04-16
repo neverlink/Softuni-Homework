@@ -1,7 +1,0 @@
-D:\!Projects\Softuni-Homework\01. Programming Basics\Programming Basics Online Exam - 3 and 4 November 2018\P-04. Wedding Decoration\bin\Debug\P_04.Wedding_Decoration.exe.config
-D:\!Projects\Softuni-Homework\01. Programming Basics\Programming Basics Online Exam - 3 and 4 November 2018\P-04. Wedding Decoration\bin\Debug\P_04.Wedding_Decoration.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\Programming Basics Online Exam - 3 and 4 November 2018\P-04. Wedding Decoration\bin\Debug\P_04.Wedding_Decoration.pdb
-D:\!Projects\Softuni-Homework\01. Programming Basics\Programming Basics Online Exam - 3 and 4 November 2018\P-04. Wedding Decoration\obj\Debug\P-04. Wedding Decoration.csprojAssemblyReference.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\Programming Basics Online Exam - 3 and 4 November 2018\P-04. Wedding Decoration\obj\Debug\P-04. Wedding Decoration.csproj.CoreCompileInputs.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\Programming Basics Online Exam - 3 and 4 November 2018\P-04. Wedding Decoration\obj\Debug\P_04.Wedding_Decoration.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\Programming Basics Online Exam - 3 and 4 November 2018\P-04. Wedding Decoration\obj\Debug\P_04.Wedding_Decoration.pdb

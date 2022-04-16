@@ -1,6 +1,0 @@
-D:\!Projects\Softuni-Homework\01. Programming Basics\Simple Calculations\P-03. Greeting by Name\bin\Debug\P_03.Greeting_by_Name.exe.config
-D:\!Projects\Softuni-Homework\01. Programming Basics\Simple Calculations\P-03. Greeting by Name\bin\Debug\P_03.Greeting_by_Name.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\Simple Calculations\P-03. Greeting by Name\bin\Debug\P_03.Greeting_by_Name.pdb
-D:\!Projects\Softuni-Homework\01. Programming Basics\Simple Calculations\P-03. Greeting by Name\obj\Debug\P-03. Greeting by Name.csproj.CoreCompileInputs.cache
-D:\!Projects\Softuni-Homework\01. Programming Basics\Simple Calculations\P-03. Greeting by Name\obj\Debug\P_03.Greeting_by_Name.exe
-D:\!Projects\Softuni-Homework\01. Programming Basics\Simple Calculations\P-03. Greeting by Name\obj\Debug\P_03.Greeting_by_Name.pdb
