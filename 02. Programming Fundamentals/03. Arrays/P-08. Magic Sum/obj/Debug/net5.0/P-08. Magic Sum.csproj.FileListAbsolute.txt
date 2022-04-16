@@ -1,0 +1,15 @@
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-08. Magic Sum\bin\Debug\net5.0\P-08. Magic Sum.exe
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-08. Magic Sum\bin\Debug\net5.0\P-08. Magic Sum.deps.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-08. Magic Sum\bin\Debug\net5.0\P-08. Magic Sum.runtimeconfig.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-08. Magic Sum\bin\Debug\net5.0\P-08. Magic Sum.runtimeconfig.dev.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-08. Magic Sum\bin\Debug\net5.0\P-08. Magic Sum.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-08. Magic Sum\bin\Debug\net5.0\ref\P-08. Magic Sum.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-08. Magic Sum\bin\Debug\net5.0\P-08. Magic Sum.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-08. Magic Sum\obj\Debug\net5.0\P-08. Magic Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-08. Magic Sum\obj\Debug\net5.0\P-08. Magic Sum.AssemblyInfoInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-08. Magic Sum\obj\Debug\net5.0\P-08. Magic Sum.AssemblyInfo.cs
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-08. Magic Sum\obj\Debug\net5.0\P-08. Magic Sum.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-08. Magic Sum\obj\Debug\net5.0\P-08. Magic Sum.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-08. Magic Sum\obj\Debug\net5.0\ref\P-08. Magic Sum.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-08. Magic Sum\obj\Debug\net5.0\P-08. Magic Sum.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-08. Magic Sum\obj\Debug\net5.0\P-08. Magic Sum.genruntimeconfig.cache

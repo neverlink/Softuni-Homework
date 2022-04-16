@@ -1,0 +1,16 @@
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Associative Arrays\P-01. Count Chars in a String\bin\Debug\net5.0\P-01. Count Chars in a String.exe
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Associative Arrays\P-01. Count Chars in a String\bin\Debug\net5.0\P-01. Count Chars in a String.deps.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Associative Arrays\P-01. Count Chars in a String\bin\Debug\net5.0\P-01. Count Chars in a String.runtimeconfig.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Associative Arrays\P-01. Count Chars in a String\bin\Debug\net5.0\P-01. Count Chars in a String.runtimeconfig.dev.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Associative Arrays\P-01. Count Chars in a String\bin\Debug\net5.0\P-01. Count Chars in a String.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Associative Arrays\P-01. Count Chars in a String\bin\Debug\net5.0\ref\P-01. Count Chars in a String.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Associative Arrays\P-01. Count Chars in a String\bin\Debug\net5.0\P-01. Count Chars in a String.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Associative Arrays\P-01. Count Chars in a String\obj\Debug\net5.0\P-01. Count Chars in a String.csproj.AssemblyReference.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Associative Arrays\P-01. Count Chars in a String\obj\Debug\net5.0\P-01. Count Chars in a String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Associative Arrays\P-01. Count Chars in a String\obj\Debug\net5.0\P-01. Count Chars in a String.AssemblyInfoInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Associative Arrays\P-01. Count Chars in a String\obj\Debug\net5.0\P-01. Count Chars in a String.AssemblyInfo.cs
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Associative Arrays\P-01. Count Chars in a String\obj\Debug\net5.0\P-01. Count Chars in a String.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Associative Arrays\P-01. Count Chars in a String\obj\Debug\net5.0\P-01. Count Chars in a String.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Associative Arrays\P-01. Count Chars in a String\obj\Debug\net5.0\ref\P-01. Count Chars in a String.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Associative Arrays\P-01. Count Chars in a String\obj\Debug\net5.0\P-01. Count Chars in a String.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Associative Arrays\P-01. Count Chars in a String\obj\Debug\net5.0\P-01. Count Chars in a String.genruntimeconfig.cache

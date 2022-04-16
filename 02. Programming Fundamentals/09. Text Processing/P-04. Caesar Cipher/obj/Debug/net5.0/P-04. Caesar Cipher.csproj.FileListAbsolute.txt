@@ -1,0 +1,16 @@
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-04. Caesar Cipher\bin\Debug\net5.0\P-04. Caesar Cipher.exe
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-04. Caesar Cipher\bin\Debug\net5.0\P-04. Caesar Cipher.deps.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-04. Caesar Cipher\bin\Debug\net5.0\P-04. Caesar Cipher.runtimeconfig.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-04. Caesar Cipher\bin\Debug\net5.0\P-04. Caesar Cipher.runtimeconfig.dev.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-04. Caesar Cipher\bin\Debug\net5.0\P-04. Caesar Cipher.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-04. Caesar Cipher\bin\Debug\net5.0\ref\P-04. Caesar Cipher.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-04. Caesar Cipher\bin\Debug\net5.0\P-04. Caesar Cipher.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-04. Caesar Cipher\obj\Debug\net5.0\P-04. Caesar Cipher.csproj.AssemblyReference.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-04. Caesar Cipher\obj\Debug\net5.0\P-04. Caesar Cipher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-04. Caesar Cipher\obj\Debug\net5.0\P-04. Caesar Cipher.AssemblyInfoInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-04. Caesar Cipher\obj\Debug\net5.0\P-04. Caesar Cipher.AssemblyInfo.cs
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-04. Caesar Cipher\obj\Debug\net5.0\P-04. Caesar Cipher.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-04. Caesar Cipher\obj\Debug\net5.0\P-04. Caesar Cipher.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-04. Caesar Cipher\obj\Debug\net5.0\ref\P-04. Caesar Cipher.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-04. Caesar Cipher\obj\Debug\net5.0\P-04. Caesar Cipher.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-04. Caesar Cipher\obj\Debug\net5.0\P-04. Caesar Cipher.genruntimeconfig.cache

@@ -1,0 +1,32 @@
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Objects and Classes\P-06. Vehicle Catalogue\bin\Debug\net5.0\P-06. Vehicle Catalogue.exe
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Objects and Classes\P-06. Vehicle Catalogue\bin\Debug\net5.0\P-06. Vehicle Catalogue.deps.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Objects and Classes\P-06. Vehicle Catalogue\bin\Debug\net5.0\P-06. Vehicle Catalogue.runtimeconfig.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Objects and Classes\P-06. Vehicle Catalogue\bin\Debug\net5.0\P-06. Vehicle Catalogue.runtimeconfig.dev.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Objects and Classes\P-06. Vehicle Catalogue\bin\Debug\net5.0\P-06. Vehicle Catalogue.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Objects and Classes\P-06. Vehicle Catalogue\bin\Debug\net5.0\ref\P-06. Vehicle Catalogue.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Objects and Classes\P-06. Vehicle Catalogue\bin\Debug\net5.0\P-06. Vehicle Catalogue.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Objects and Classes\P-06. Vehicle Catalogue\obj\Debug\net5.0\P-06. Vehicle Catalogue.csproj.AssemblyReference.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Objects and Classes\P-06. Vehicle Catalogue\obj\Debug\net5.0\P-06. Vehicle Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Objects and Classes\P-06. Vehicle Catalogue\obj\Debug\net5.0\P-06. Vehicle Catalogue.AssemblyInfoInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Objects and Classes\P-06. Vehicle Catalogue\obj\Debug\net5.0\P-06. Vehicle Catalogue.AssemblyInfo.cs
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Objects and Classes\P-06. Vehicle Catalogue\obj\Debug\net5.0\P-06. Vehicle Catalogue.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Objects and Classes\P-06. Vehicle Catalogue\obj\Debug\net5.0\P-06. Vehicle Catalogue.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Objects and Classes\P-06. Vehicle Catalogue\obj\Debug\net5.0\ref\P-06. Vehicle Catalogue.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Objects and Classes\P-06. Vehicle Catalogue\obj\Debug\net5.0\P-06. Vehicle Catalogue.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Objects and Classes\P-06. Vehicle Catalogue\obj\Debug\net5.0\P-06. Vehicle Catalogue.genruntimeconfig.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\07. Objects and Classes\P-06. Vehicle Catalogue\bin\Debug\net5.0\P-06. Vehicle Catalogue.exe
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\07. Objects and Classes\P-06. Vehicle Catalogue\bin\Debug\net5.0\P-06. Vehicle Catalogue.deps.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\07. Objects and Classes\P-06. Vehicle Catalogue\bin\Debug\net5.0\P-06. Vehicle Catalogue.runtimeconfig.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\07. Objects and Classes\P-06. Vehicle Catalogue\bin\Debug\net5.0\P-06. Vehicle Catalogue.runtimeconfig.dev.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\07. Objects and Classes\P-06. Vehicle Catalogue\bin\Debug\net5.0\P-06. Vehicle Catalogue.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\07. Objects and Classes\P-06. Vehicle Catalogue\bin\Debug\net5.0\P-06. Vehicle Catalogue.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\07. Objects and Classes\P-06. Vehicle Catalogue\obj\Debug\net5.0\P-06. Vehicle Catalogue.csproj.AssemblyReference.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\07. Objects and Classes\P-06. Vehicle Catalogue\obj\Debug\net5.0\P-06. Vehicle Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\07. Objects and Classes\P-06. Vehicle Catalogue\obj\Debug\net5.0\P-06. Vehicle Catalogue.AssemblyInfoInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\07. Objects and Classes\P-06. Vehicle Catalogue\obj\Debug\net5.0\P-06. Vehicle Catalogue.AssemblyInfo.cs
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\07. Objects and Classes\P-06. Vehicle Catalogue\obj\Debug\net5.0\P-06. Vehicle Catalogue.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\07. Objects and Classes\P-06. Vehicle Catalogue\obj\Debug\net5.0\P-06. Vehicle Catalogue.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\07. Objects and Classes\P-06. Vehicle Catalogue\obj\Debug\net5.0\refint\P-06. Vehicle Catalogue.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\07. Objects and Classes\P-06. Vehicle Catalogue\obj\Debug\net5.0\P-06. Vehicle Catalogue.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\07. Objects and Classes\P-06. Vehicle Catalogue\obj\Debug\net5.0\P-06. Vehicle Catalogue.genruntimeconfig.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\07. Objects and Classes\P-06. Vehicle Catalogue\obj\Debug\net5.0\ref\P-06. Vehicle Catalogue.dll

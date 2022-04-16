@@ -1,0 +1,16 @@
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam\P-01. The Biscuit Factory\bin\Debug\net5.0\P-01. The Biscuit Factory.exe
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam\P-01. The Biscuit Factory\bin\Debug\net5.0\P-01. The Biscuit Factory.deps.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam\P-01. The Biscuit Factory\bin\Debug\net5.0\P-01. The Biscuit Factory.runtimeconfig.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam\P-01. The Biscuit Factory\bin\Debug\net5.0\P-01. The Biscuit Factory.runtimeconfig.dev.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam\P-01. The Biscuit Factory\bin\Debug\net5.0\P-01. The Biscuit Factory.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam\P-01. The Biscuit Factory\bin\Debug\net5.0\ref\P-01. The Biscuit Factory.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam\P-01. The Biscuit Factory\bin\Debug\net5.0\P-01. The Biscuit Factory.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam\P-01. The Biscuit Factory\obj\Debug\net5.0\P-01. The Biscuit Factory.csproj.AssemblyReference.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam\P-01. The Biscuit Factory\obj\Debug\net5.0\P-01. The Biscuit Factory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam\P-01. The Biscuit Factory\obj\Debug\net5.0\P-01. The Biscuit Factory.AssemblyInfoInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam\P-01. The Biscuit Factory\obj\Debug\net5.0\P-01. The Biscuit Factory.AssemblyInfo.cs
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam\P-01. The Biscuit Factory\obj\Debug\net5.0\P-01. The Biscuit Factory.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam\P-01. The Biscuit Factory\obj\Debug\net5.0\P-01. The Biscuit Factory.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam\P-01. The Biscuit Factory\obj\Debug\net5.0\ref\P-01. The Biscuit Factory.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam\P-01. The Biscuit Factory\obj\Debug\net5.0\P-01. The Biscuit Factory.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam\P-01. The Biscuit Factory\obj\Debug\net5.0\P-01. The Biscuit Factory.genruntimeconfig.cache

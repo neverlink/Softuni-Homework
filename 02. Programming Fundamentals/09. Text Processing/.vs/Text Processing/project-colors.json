@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8e6e8d87-936a-49d9-831b-b863b06bbcf4": {
+      "ProjectGuid": "8e6e8d87-936a-49d9-831b-b863b06bbcf4",
+      "DisplayName": "P-01. Valid Usernames",
+      "ColorIndex": 0
+    },
+    "6b6affd7-905f-4006-91cc-9f10f37df265": {
+      "ProjectGuid": "6b6affd7-905f-4006-91cc-9f10f37df265",
+      "DisplayName": "P-02. Character Multiplier",
+      "ColorIndex": 1
+    },
+    "c0bc6524-e14d-4ccf-b053-41b7cfc9235a": {
+      "ProjectGuid": "c0bc6524-e14d-4ccf-b053-41b7cfc9235a",
+      "DisplayName": "P-03. Extract File",
+      "ColorIndex": 2
+    },
+    "04ac99b1-4dcd-440b-8922-97b3fb354579": {
+      "ProjectGuid": "04ac99b1-4dcd-440b-8922-97b3fb354579",
+      "DisplayName": "P-04. Caesar Cipher",
+      "ColorIndex": 3
+    },
+    "072383c5-0f4d-40ff-b7bd-d34a00797408": {
+      "ProjectGuid": "072383c5-0f4d-40ff-b7bd-d34a00797408",
+      "DisplayName": "P-05. Multiply Big Number",
+      "ColorIndex": 4
+    },
+    "71edee33-285b-4ee5-837b-93106c86e358": {
+      "ProjectGuid": "71edee33-285b-4ee5-837b-93106c86e358",
+      "DisplayName": "P-06. Replace Repeating Chars",
+      "ColorIndex": 5
+    },
+    "f73871f4-3a31-437a-bb6d-ad531f034b3f": {
+      "ProjectGuid": "f73871f4-3a31-437a-bb6d-ad531f034b3f",
+      "DisplayName": "P-07. String Explosion",
+      "ColorIndex": 6
+    },
+    "59ceabcc-46ab-4f68-9d9c-bd307e578782": {
+      "ProjectGuid": "59ceabcc-46ab-4f68-9d9c-bd307e578782",
+      "DisplayName": "P-08. Letters Change Numbers",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

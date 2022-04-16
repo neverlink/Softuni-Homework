@@ -1,0 +1,16 @@
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-07. String Explosion\bin\Debug\net5.0\P-07. String Explosion.exe
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-07. String Explosion\bin\Debug\net5.0\P-07. String Explosion.deps.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-07. String Explosion\bin\Debug\net5.0\P-07. String Explosion.runtimeconfig.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-07. String Explosion\bin\Debug\net5.0\P-07. String Explosion.runtimeconfig.dev.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-07. String Explosion\bin\Debug\net5.0\P-07. String Explosion.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-07. String Explosion\bin\Debug\net5.0\ref\P-07. String Explosion.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-07. String Explosion\bin\Debug\net5.0\P-07. String Explosion.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-07. String Explosion\obj\Debug\net5.0\P-07. String Explosion.csproj.AssemblyReference.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-07. String Explosion\obj\Debug\net5.0\P-07. String Explosion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-07. String Explosion\obj\Debug\net5.0\P-07. String Explosion.AssemblyInfoInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-07. String Explosion\obj\Debug\net5.0\P-07. String Explosion.AssemblyInfo.cs
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-07. String Explosion\obj\Debug\net5.0\P-07. String Explosion.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-07. String Explosion\obj\Debug\net5.0\P-07. String Explosion.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-07. String Explosion\obj\Debug\net5.0\ref\P-07. String Explosion.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-07. String Explosion\obj\Debug\net5.0\P-07. String Explosion.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-07. String Explosion\obj\Debug\net5.0\P-07. String Explosion.genruntimeconfig.cache

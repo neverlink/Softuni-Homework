@@ -1,0 +1,16 @@
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-04. Star Enigma\bin\Debug\net5.0\P-04. Star Enigma.exe
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-04. Star Enigma\bin\Debug\net5.0\P-04. Star Enigma.deps.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-04. Star Enigma\bin\Debug\net5.0\P-04. Star Enigma.runtimeconfig.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-04. Star Enigma\bin\Debug\net5.0\P-04. Star Enigma.runtimeconfig.dev.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-04. Star Enigma\bin\Debug\net5.0\P-04. Star Enigma.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-04. Star Enigma\bin\Debug\net5.0\P-04. Star Enigma.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-04. Star Enigma\obj\Debug\net5.0\P-04. Star Enigma.csproj.AssemblyReference.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-04. Star Enigma\obj\Debug\net5.0\P-04. Star Enigma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-04. Star Enigma\obj\Debug\net5.0\P-04. Star Enigma.AssemblyInfoInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-04. Star Enigma\obj\Debug\net5.0\P-04. Star Enigma.AssemblyInfo.cs
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-04. Star Enigma\obj\Debug\net5.0\P-04. Star Enigma.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-04. Star Enigma\obj\Debug\net5.0\P-04. Star Enigma.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-04. Star Enigma\obj\Debug\net5.0\refint\P-04. Star Enigma.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-04. Star Enigma\obj\Debug\net5.0\P-04. Star Enigma.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-04. Star Enigma\obj\Debug\net5.0\P-04. Star Enigma.genruntimeconfig.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-04. Star Enigma\obj\Debug\net5.0\ref\P-04. Star Enigma.dll

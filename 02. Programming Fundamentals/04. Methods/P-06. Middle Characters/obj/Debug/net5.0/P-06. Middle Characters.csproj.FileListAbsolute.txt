@@ -1,0 +1,16 @@
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-06. Middle Characters\bin\Debug\net5.0\P-06. Middle Characters.exe
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-06. Middle Characters\bin\Debug\net5.0\P-06. Middle Characters.deps.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-06. Middle Characters\bin\Debug\net5.0\P-06. Middle Characters.runtimeconfig.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-06. Middle Characters\bin\Debug\net5.0\P-06. Middle Characters.runtimeconfig.dev.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-06. Middle Characters\bin\Debug\net5.0\P-06. Middle Characters.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-06. Middle Characters\bin\Debug\net5.0\ref\P-06. Middle Characters.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-06. Middle Characters\bin\Debug\net5.0\P-06. Middle Characters.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-06. Middle Characters\obj\Debug\net5.0\P-06. Middle Characters.csproj.AssemblyReference.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-06. Middle Characters\obj\Debug\net5.0\P-06. Middle Characters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-06. Middle Characters\obj\Debug\net5.0\P-06. Middle Characters.AssemblyInfoInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-06. Middle Characters\obj\Debug\net5.0\P-06. Middle Characters.AssemblyInfo.cs
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-06. Middle Characters\obj\Debug\net5.0\P-06. Middle Characters.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-06. Middle Characters\obj\Debug\net5.0\P-06. Middle Characters.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-06. Middle Characters\obj\Debug\net5.0\ref\P-06. Middle Characters.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-06. Middle Characters\obj\Debug\net5.0\P-06. Middle Characters.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-06. Middle Characters\obj\Debug\net5.0\P-06. Middle Characters.genruntimeconfig.cache

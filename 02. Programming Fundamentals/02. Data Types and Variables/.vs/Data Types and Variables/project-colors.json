@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "93d839ef-c894-4a32-9a28-c14ab63665d3": {
+      "ProjectGuid": "93d839ef-c894-4a32-9a28-c14ab63665d3",
+      "DisplayName": "P-07. Water Overflow",
+      "ColorIndex": 0
+    },
+    "2baa1a80-ee35-4e2d-adba-9ae6d3df93a0": {
+      "ProjectGuid": "2baa1a80-ee35-4e2d-adba-9ae6d3df93a0",
+      "DisplayName": "P-04. Sum of Chars",
+      "ColorIndex": 1
+    },
+    "cb56b225-6799-43b8-9057-e6fca669b1ea": {
+      "ProjectGuid": "cb56b225-6799-43b8-9057-e6fca669b1ea",
+      "DisplayName": "P-06. Triples of Latin Letters",
+      "ColorIndex": 2
+    },
+    "18d42062-7188-4f88-a29b-f8f0bafb8971": {
+      "ProjectGuid": "18d42062-7188-4f88-a29b-f8f0bafb8971",
+      "DisplayName": "P-01. Integer Operations",
+      "ColorIndex": 3
+    },
+    "f101e522-dbae-4a3c-a678-704feb777161": {
+      "ProjectGuid": "f101e522-dbae-4a3c-a678-704feb777161",
+      "DisplayName": "P-02. Sum Digits",
+      "ColorIndex": 4
+    },
+    "f5c45222-8db1-4e64-a955-854838e7070d": {
+      "ProjectGuid": "f5c45222-8db1-4e64-a955-854838e7070d",
+      "DisplayName": "P-03. Elevator",
+      "ColorIndex": 5
+    },
+    "0bd6de9f-76fc-4e25-9860-b753c28dbeb4": {
+      "ProjectGuid": "0bd6de9f-76fc-4e25-9860-b753c28dbeb4",
+      "DisplayName": "P-05. Print Part Of ASCII Table",
+      "ColorIndex": 6
+    },
+    "b4d83fe6-42d6-4bd7-b242-e43aa93d7bfb": {
+      "ProjectGuid": "b4d83fe6-42d6-4bd7-b242-e43aa93d7bfb",
+      "DisplayName": "P-08. Beer Kegs",
+      "ColorIndex": 7
+    },
+    "397596ed-0859-44c9-b470-85a3c88d8b2c": {
+      "ProjectGuid": "397596ed-0859-44c9-b470-85a3c88d8b2c",
+      "DisplayName": "P-09. Spice Must Flow",
+      "ColorIndex": 8
+    },
+    "85321dd9-32d4-484b-b798-7063dc31e152": {
+      "ProjectGuid": "85321dd9-32d4-484b-b798-7063dc31e152",
+      "DisplayName": "P-10. Pokemon",
+      "ColorIndex": 9
+    },
+    "d05a4b19-db3e-4414-b79f-322aa56c440a": {
+      "ProjectGuid": "d05a4b19-db3e-4414-b79f-322aa56c440a",
+      "DisplayName": "P-11. Snowballs",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

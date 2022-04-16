@@ -1,0 +1,16 @@
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-09. Padawan Equipment\obj\Debug\net5.0\P-09. Padawan Equipment.csproj.AssemblyReference.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-09. Padawan Equipment\obj\Debug\net5.0\P-09. Padawan Equipment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-09. Padawan Equipment\obj\Debug\net5.0\P-09. Padawan Equipment.AssemblyInfoInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-09. Padawan Equipment\obj\Debug\net5.0\P-09. Padawan Equipment.AssemblyInfo.cs
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-09. Padawan Equipment\obj\Debug\net5.0\P-09. Padawan Equipment.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-09. Padawan Equipment\bin\Debug\net5.0\P-09. Padawan Equipment.exe
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-09. Padawan Equipment\bin\Debug\net5.0\P-09. Padawan Equipment.deps.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-09. Padawan Equipment\bin\Debug\net5.0\P-09. Padawan Equipment.runtimeconfig.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-09. Padawan Equipment\bin\Debug\net5.0\P-09. Padawan Equipment.runtimeconfig.dev.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-09. Padawan Equipment\bin\Debug\net5.0\P-09. Padawan Equipment.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-09. Padawan Equipment\bin\Debug\net5.0\ref\P-09. Padawan Equipment.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-09. Padawan Equipment\bin\Debug\net5.0\P-09. Padawan Equipment.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-09. Padawan Equipment\obj\Debug\net5.0\P-09. Padawan Equipment.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-09. Padawan Equipment\obj\Debug\net5.0\ref\P-09. Padawan Equipment.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-09. Padawan Equipment\obj\Debug\net5.0\P-09. Padawan Equipment.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-09. Padawan Equipment\obj\Debug\net5.0\P-09. Padawan Equipment.genruntimeconfig.cache

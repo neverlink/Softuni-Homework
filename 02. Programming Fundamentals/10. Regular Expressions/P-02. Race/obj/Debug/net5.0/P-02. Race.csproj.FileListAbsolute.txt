@@ -1,0 +1,16 @@
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-02. Race\bin\Debug\net5.0\P-02. Race.exe
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-02. Race\bin\Debug\net5.0\P-02. Race.deps.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-02. Race\bin\Debug\net5.0\P-02. Race.runtimeconfig.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-02. Race\bin\Debug\net5.0\P-02. Race.runtimeconfig.dev.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-02. Race\bin\Debug\net5.0\P-02. Race.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-02. Race\bin\Debug\net5.0\P-02. Race.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-02. Race\obj\Debug\net5.0\P-02. Race.csproj.AssemblyReference.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-02. Race\obj\Debug\net5.0\P-02. Race.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-02. Race\obj\Debug\net5.0\P-02. Race.AssemblyInfoInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-02. Race\obj\Debug\net5.0\P-02. Race.AssemblyInfo.cs
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-02. Race\obj\Debug\net5.0\P-02. Race.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-02. Race\obj\Debug\net5.0\P-02. Race.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-02. Race\obj\Debug\net5.0\refint\P-02. Race.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-02. Race\obj\Debug\net5.0\P-02. Race.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-02. Race\obj\Debug\net5.0\P-02. Race.genruntimeconfig.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-02. Race\obj\Debug\net5.0\ref\P-02. Race.dll

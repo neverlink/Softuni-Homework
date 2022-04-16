@@ -1,0 +1,16 @@
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-03. House Party\bin\Debug\net5.0\P-03. House Party.exe
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-03. House Party\bin\Debug\net5.0\P-03. House Party.deps.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-03. House Party\bin\Debug\net5.0\P-03. House Party.runtimeconfig.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-03. House Party\bin\Debug\net5.0\P-03. House Party.runtimeconfig.dev.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-03. House Party\bin\Debug\net5.0\P-03. House Party.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-03. House Party\bin\Debug\net5.0\ref\P-03. House Party.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-03. House Party\bin\Debug\net5.0\P-03. House Party.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-03. House Party\obj\Debug\net5.0\P-03. House Party.csproj.AssemblyReference.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-03. House Party\obj\Debug\net5.0\P-03. House Party.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-03. House Party\obj\Debug\net5.0\P-03. House Party.AssemblyInfoInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-03. House Party\obj\Debug\net5.0\P-03. House Party.AssemblyInfo.cs
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-03. House Party\obj\Debug\net5.0\P-03. House Party.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-03. House Party\obj\Debug\net5.0\P-03. House Party.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-03. House Party\obj\Debug\net5.0\ref\P-03. House Party.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-03. House Party\obj\Debug\net5.0\P-03. House Party.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-03. House Party\obj\Debug\net5.0\P-03. House Party.genruntimeconfig.cache

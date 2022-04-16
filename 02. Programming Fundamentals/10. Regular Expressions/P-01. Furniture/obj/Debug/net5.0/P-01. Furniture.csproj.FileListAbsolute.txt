@@ -1,0 +1,16 @@
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-01. Furniture\bin\Debug\net5.0\P-01. Furniture.exe
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-01. Furniture\bin\Debug\net5.0\P-01. Furniture.deps.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-01. Furniture\bin\Debug\net5.0\P-01. Furniture.runtimeconfig.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-01. Furniture\bin\Debug\net5.0\P-01. Furniture.runtimeconfig.dev.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-01. Furniture\bin\Debug\net5.0\P-01. Furniture.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-01. Furniture\bin\Debug\net5.0\P-01. Furniture.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-01. Furniture\obj\Debug\net5.0\P-01. Furniture.csproj.AssemblyReference.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-01. Furniture\obj\Debug\net5.0\P-01. Furniture.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-01. Furniture\obj\Debug\net5.0\P-01. Furniture.AssemblyInfoInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-01. Furniture\obj\Debug\net5.0\P-01. Furniture.AssemblyInfo.cs
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-01. Furniture\obj\Debug\net5.0\P-01. Furniture.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-01. Furniture\obj\Debug\net5.0\P-01. Furniture.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-01. Furniture\obj\Debug\net5.0\refint\P-01. Furniture.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-01. Furniture\obj\Debug\net5.0\P-01. Furniture.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-01. Furniture\obj\Debug\net5.0\P-01. Furniture.genruntimeconfig.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\10. Regular Expressions\Regular Expressions\P-01. Furniture\obj\Debug\net5.0\ref\P-01. Furniture.dll

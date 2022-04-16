@@ -1,0 +1,15 @@
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Data Types and Variables\P-11. Snowballs\bin\Debug\net5.0\P-11. Snowballs.exe
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Data Types and Variables\P-11. Snowballs\bin\Debug\net5.0\P-11. Snowballs.deps.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Data Types and Variables\P-11. Snowballs\bin\Debug\net5.0\P-11. Snowballs.runtimeconfig.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Data Types and Variables\P-11. Snowballs\bin\Debug\net5.0\P-11. Snowballs.runtimeconfig.dev.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Data Types and Variables\P-11. Snowballs\bin\Debug\net5.0\P-11. Snowballs.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Data Types and Variables\P-11. Snowballs\bin\Debug\net5.0\ref\P-11. Snowballs.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Data Types and Variables\P-11. Snowballs\bin\Debug\net5.0\P-11. Snowballs.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Data Types and Variables\P-11. Snowballs\obj\Debug\net5.0\P-11. Snowballs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Data Types and Variables\P-11. Snowballs\obj\Debug\net5.0\P-11. Snowballs.AssemblyInfoInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Data Types and Variables\P-11. Snowballs\obj\Debug\net5.0\P-11. Snowballs.AssemblyInfo.cs
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Data Types and Variables\P-11. Snowballs\obj\Debug\net5.0\P-11. Snowballs.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Data Types and Variables\P-11. Snowballs\obj\Debug\net5.0\P-11. Snowballs.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Data Types and Variables\P-11. Snowballs\obj\Debug\net5.0\ref\P-11. Snowballs.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Data Types and Variables\P-11. Snowballs\obj\Debug\net5.0\P-11. Snowballs.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Data Types and Variables\P-11. Snowballs\obj\Debug\net5.0\P-11. Snowballs.genruntimeconfig.cache

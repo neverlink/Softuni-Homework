@@ -1,0 +1,16 @@
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-05. Top Integers\bin\Debug\net5.0\P-05. Top Integers.exe
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-05. Top Integers\bin\Debug\net5.0\P-05. Top Integers.deps.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-05. Top Integers\bin\Debug\net5.0\P-05. Top Integers.runtimeconfig.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-05. Top Integers\bin\Debug\net5.0\P-05. Top Integers.runtimeconfig.dev.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-05. Top Integers\bin\Debug\net5.0\P-05. Top Integers.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-05. Top Integers\bin\Debug\net5.0\ref\P-05. Top Integers.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-05. Top Integers\bin\Debug\net5.0\P-05. Top Integers.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-05. Top Integers\obj\Debug\net5.0\P-05. Top Integers.csproj.AssemblyReference.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-05. Top Integers\obj\Debug\net5.0\P-05. Top Integers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-05. Top Integers\obj\Debug\net5.0\P-05. Top Integers.AssemblyInfoInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-05. Top Integers\obj\Debug\net5.0\P-05. Top Integers.AssemblyInfo.cs
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-05. Top Integers\obj\Debug\net5.0\P-05. Top Integers.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-05. Top Integers\obj\Debug\net5.0\P-05. Top Integers.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-05. Top Integers\obj\Debug\net5.0\ref\P-05. Top Integers.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-05. Top Integers\obj\Debug\net5.0\P-05. Top Integers.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-05. Top Integers\obj\Debug\net5.0\P-05. Top Integers.genruntimeconfig.cache

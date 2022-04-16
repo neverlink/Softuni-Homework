@@ -1,0 +1,16 @@
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-01. Ages\bin\Debug\net5.0\P-01. Ages.exe
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-01. Ages\bin\Debug\net5.0\P-01. Ages.deps.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-01. Ages\bin\Debug\net5.0\P-01. Ages.runtimeconfig.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-01. Ages\bin\Debug\net5.0\P-01. Ages.runtimeconfig.dev.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-01. Ages\bin\Debug\net5.0\P-01. Ages.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-01. Ages\bin\Debug\net5.0\ref\P-01. Ages.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-01. Ages\bin\Debug\net5.0\P-01. Ages.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-01. Ages\obj\Debug\net5.0\P-01. Ages.csproj.AssemblyReference.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-01. Ages\obj\Debug\net5.0\P-01. Ages.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-01. Ages\obj\Debug\net5.0\P-01. Ages.AssemblyInfoInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-01. Ages\obj\Debug\net5.0\P-01. Ages.AssemblyInfo.cs
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-01. Ages\obj\Debug\net5.0\P-01. Ages.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-01. Ages\obj\Debug\net5.0\P-01. Ages.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-01. Ages\obj\Debug\net5.0\ref\P-01. Ages.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-01. Ages\obj\Debug\net5.0\P-01. Ages.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-01. Ages\obj\Debug\net5.0\P-01. Ages.genruntimeconfig.cache

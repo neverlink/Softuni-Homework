@@ -1,0 +1,16 @@
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-06. Cards Game\bin\Debug\net5.0\P-06. Cards Game.exe
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-06. Cards Game\bin\Debug\net5.0\P-06. Cards Game.deps.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-06. Cards Game\bin\Debug\net5.0\P-06. Cards Game.runtimeconfig.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-06. Cards Game\bin\Debug\net5.0\P-06. Cards Game.runtimeconfig.dev.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-06. Cards Game\bin\Debug\net5.0\P-06. Cards Game.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-06. Cards Game\bin\Debug\net5.0\ref\P-06. Cards Game.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-06. Cards Game\bin\Debug\net5.0\P-06. Cards Game.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-06. Cards Game\obj\Debug\net5.0\P-06. Cards Game.csproj.AssemblyReference.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-06. Cards Game\obj\Debug\net5.0\P-06. Cards Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-06. Cards Game\obj\Debug\net5.0\P-06. Cards Game.AssemblyInfoInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-06. Cards Game\obj\Debug\net5.0\P-06. Cards Game.AssemblyInfo.cs
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-06. Cards Game\obj\Debug\net5.0\P-06. Cards Game.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-06. Cards Game\obj\Debug\net5.0\P-06. Cards Game.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-06. Cards Game\obj\Debug\net5.0\ref\P-06. Cards Game.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-06. Cards Game\obj\Debug\net5.0\P-06. Cards Game.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-06. Cards Game\obj\Debug\net5.0\P-06. Cards Game.genruntimeconfig.cache

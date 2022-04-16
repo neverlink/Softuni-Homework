@@ -1,0 +1,15 @@
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-10. Top Number\bin\Debug\net5.0\P-10. Top Number.exe
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-10. Top Number\bin\Debug\net5.0\P-10. Top Number.deps.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-10. Top Number\bin\Debug\net5.0\P-10. Top Number.runtimeconfig.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-10. Top Number\bin\Debug\net5.0\P-10. Top Number.runtimeconfig.dev.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-10. Top Number\bin\Debug\net5.0\P-10. Top Number.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-10. Top Number\bin\Debug\net5.0\ref\P-10. Top Number.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-10. Top Number\bin\Debug\net5.0\P-10. Top Number.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-10. Top Number\obj\Debug\net5.0\P-10. Top Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-10. Top Number\obj\Debug\net5.0\P-10. Top Number.AssemblyInfoInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-10. Top Number\obj\Debug\net5.0\P-10. Top Number.AssemblyInfo.cs
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-10. Top Number\obj\Debug\net5.0\P-10. Top Number.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-10. Top Number\obj\Debug\net5.0\P-10. Top Number.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-10. Top Number\obj\Debug\net5.0\ref\P-10. Top Number.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-10. Top Number\obj\Debug\net5.0\P-10. Top Number.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-10. Top Number\obj\Debug\net5.0\P-10. Top Number.genruntimeconfig.cache

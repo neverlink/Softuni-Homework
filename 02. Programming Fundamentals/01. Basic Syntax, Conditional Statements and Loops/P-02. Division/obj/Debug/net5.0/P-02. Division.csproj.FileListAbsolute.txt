@@ -1,0 +1,15 @@
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-02. Division\bin\Debug\net5.0\P-02. Division.exe
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-02. Division\bin\Debug\net5.0\P-02. Division.deps.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-02. Division\bin\Debug\net5.0\P-02. Division.runtimeconfig.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-02. Division\bin\Debug\net5.0\P-02. Division.runtimeconfig.dev.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-02. Division\bin\Debug\net5.0\P-02. Division.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-02. Division\bin\Debug\net5.0\ref\P-02. Division.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-02. Division\bin\Debug\net5.0\P-02. Division.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-02. Division\obj\Debug\net5.0\P-02. Division.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-02. Division\obj\Debug\net5.0\P-02. Division.AssemblyInfoInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-02. Division\obj\Debug\net5.0\P-02. Division.AssemblyInfo.cs
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-02. Division\obj\Debug\net5.0\P-02. Division.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-02. Division\obj\Debug\net5.0\P-02. Division.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-02. Division\obj\Debug\net5.0\ref\P-02. Division.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-02. Division\obj\Debug\net5.0\P-02. Division.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Basic Syntax, Conditional Statements and Loops\P-02. Division\obj\Debug\net5.0\P-02. Division.genruntimeconfig.cache

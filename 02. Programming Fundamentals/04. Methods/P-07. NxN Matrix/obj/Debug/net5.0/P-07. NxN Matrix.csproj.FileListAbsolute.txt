@@ -1,0 +1,15 @@
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-07. NxN Matrix\bin\Debug\net5.0\P-07. NxN Matrix.exe
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-07. NxN Matrix\bin\Debug\net5.0\P-07. NxN Matrix.deps.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-07. NxN Matrix\bin\Debug\net5.0\P-07. NxN Matrix.runtimeconfig.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-07. NxN Matrix\bin\Debug\net5.0\P-07. NxN Matrix.runtimeconfig.dev.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-07. NxN Matrix\bin\Debug\net5.0\P-07. NxN Matrix.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-07. NxN Matrix\bin\Debug\net5.0\ref\P-07. NxN Matrix.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-07. NxN Matrix\bin\Debug\net5.0\P-07. NxN Matrix.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-07. NxN Matrix\obj\Debug\net5.0\P-07. NxN Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-07. NxN Matrix\obj\Debug\net5.0\P-07. NxN Matrix.AssemblyInfoInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-07. NxN Matrix\obj\Debug\net5.0\P-07. NxN Matrix.AssemblyInfo.cs
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-07. NxN Matrix\obj\Debug\net5.0\P-07. NxN Matrix.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-07. NxN Matrix\obj\Debug\net5.0\P-07. NxN Matrix.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-07. NxN Matrix\obj\Debug\net5.0\ref\P-07. NxN Matrix.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-07. NxN Matrix\obj\Debug\net5.0\P-07. NxN Matrix.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Methods\P-07. NxN Matrix\obj\Debug\net5.0\P-07. NxN Matrix.genruntimeconfig.cache

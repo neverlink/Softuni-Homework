@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a659e768-ee3b-413d-98bc-6be222ed8cd7": {
+      "ProjectGuid": "a659e768-ee3b-413d-98bc-6be222ed8cd7",
+      "DisplayName": "P-01. Train",
+      "ColorIndex": 0
+    },
+    "417d6814-7b38-4395-990a-50ba246ce786": {
+      "ProjectGuid": "417d6814-7b38-4395-990a-50ba246ce786",
+      "DisplayName": "P-08. Magic Sum",
+      "ColorIndex": 1
+    },
+    "3d6bdf5f-bbc9-428c-9cbc-0fc3d7ca388c": {
+      "ProjectGuid": "3d6bdf5f-bbc9-428c-9cbc-0fc3d7ca388c",
+      "DisplayName": "P-07. Max Sequence of Equal Elements",
+      "ColorIndex": 2
+    },
+    "90da2bc2-6c7a-41a4-a139-a830bda0bd0a": {
+      "ProjectGuid": "90da2bc2-6c7a-41a4-a139-a830bda0bd0a",
+      "DisplayName": "P-06. Equal Sum",
+      "ColorIndex": 3
+    },
+    "9cc7cc76-4d85-4dc1-a4e1-bc3d5a6ffb1e": {
+      "ProjectGuid": "9cc7cc76-4d85-4dc1-a4e1-bc3d5a6ffb1e",
+      "DisplayName": "P-05. Top Integers",
+      "ColorIndex": 4
+    },
+    "8599ff18-6a77-4d2c-807c-3bf7588cb321": {
+      "ProjectGuid": "8599ff18-6a77-4d2c-807c-3bf7588cb321",
+      "DisplayName": "P-04. Array Rotation",
+      "ColorIndex": 5
+    },
+    "aeca2b6b-1bac-43e3-829b-10d94dfe6c0d": {
+      "ProjectGuid": "aeca2b6b-1bac-43e3-829b-10d94dfe6c0d",
+      "DisplayName": "P-03. Zig-Zag Arrays",
+      "ColorIndex": 6
+    },
+    "ae14243e-1434-4df1-9286-dbeb8d684f3b": {
+      "ProjectGuid": "ae14243e-1434-4df1-9286-dbeb8d684f3b",
+      "DisplayName": "P-02. Common Elements",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

@@ -1,0 +1,16 @@
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam Practice\P-03. Memory Game\bin\Debug\net5.0\P-03. Memory Game.exe
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam Practice\P-03. Memory Game\bin\Debug\net5.0\P-03. Memory Game.deps.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam Practice\P-03. Memory Game\bin\Debug\net5.0\P-03. Memory Game.runtimeconfig.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam Practice\P-03. Memory Game\bin\Debug\net5.0\P-03. Memory Game.runtimeconfig.dev.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam Practice\P-03. Memory Game\bin\Debug\net5.0\P-03. Memory Game.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam Practice\P-03. Memory Game\bin\Debug\net5.0\ref\P-03. Memory Game.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam Practice\P-03. Memory Game\bin\Debug\net5.0\P-03. Memory Game.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam Practice\P-03. Memory Game\obj\Debug\net5.0\P-03. Memory Game.csproj.AssemblyReference.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam Practice\P-03. Memory Game\obj\Debug\net5.0\P-03. Memory Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam Practice\P-03. Memory Game\obj\Debug\net5.0\P-03. Memory Game.AssemblyInfoInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam Practice\P-03. Memory Game\obj\Debug\net5.0\P-03. Memory Game.AssemblyInfo.cs
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam Practice\P-03. Memory Game\obj\Debug\net5.0\P-03. Memory Game.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam Practice\P-03. Memory Game\obj\Debug\net5.0\P-03. Memory Game.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam Practice\P-03. Memory Game\obj\Debug\net5.0\ref\P-03. Memory Game.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam Practice\P-03. Memory Game\obj\Debug\net5.0\P-03. Memory Game.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam Practice\P-03. Memory Game\obj\Debug\net5.0\P-03. Memory Game.genruntimeconfig.cache

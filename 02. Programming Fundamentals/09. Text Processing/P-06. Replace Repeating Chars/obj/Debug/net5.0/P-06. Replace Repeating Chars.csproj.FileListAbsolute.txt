@@ -1,0 +1,16 @@
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-06. Replace Repeating Chars\bin\Debug\net5.0\P-06. Replace Repeating Chars.exe
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-06. Replace Repeating Chars\bin\Debug\net5.0\P-06. Replace Repeating Chars.deps.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-06. Replace Repeating Chars\bin\Debug\net5.0\P-06. Replace Repeating Chars.runtimeconfig.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-06. Replace Repeating Chars\bin\Debug\net5.0\P-06. Replace Repeating Chars.runtimeconfig.dev.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-06. Replace Repeating Chars\bin\Debug\net5.0\P-06. Replace Repeating Chars.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-06. Replace Repeating Chars\bin\Debug\net5.0\ref\P-06. Replace Repeating Chars.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-06. Replace Repeating Chars\bin\Debug\net5.0\P-06. Replace Repeating Chars.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-06. Replace Repeating Chars\obj\Debug\net5.0\P-06. Replace Repeating Chars.csproj.AssemblyReference.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-06. Replace Repeating Chars\obj\Debug\net5.0\P-06. Replace Repeating Chars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-06. Replace Repeating Chars\obj\Debug\net5.0\P-06. Replace Repeating Chars.AssemblyInfoInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-06. Replace Repeating Chars\obj\Debug\net5.0\P-06. Replace Repeating Chars.AssemblyInfo.cs
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-06. Replace Repeating Chars\obj\Debug\net5.0\P-06. Replace Repeating Chars.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-06. Replace Repeating Chars\obj\Debug\net5.0\P-06. Replace Repeating Chars.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-06. Replace Repeating Chars\obj\Debug\net5.0\ref\P-06. Replace Repeating Chars.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-06. Replace Repeating Chars\obj\Debug\net5.0\P-06. Replace Repeating Chars.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\09. Text Processing\P-06. Replace Repeating Chars\obj\Debug\net5.0\P-06. Replace Repeating Chars.genruntimeconfig.cache

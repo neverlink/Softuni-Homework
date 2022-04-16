@@ -1,0 +1,15 @@
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam Practice\P-02. Shoot for the Win\bin\Debug\net5.0\P-02. Shoot for the Win.exe
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam Practice\P-02. Shoot for the Win\bin\Debug\net5.0\P-02. Shoot for the Win.deps.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam Practice\P-02. Shoot for the Win\bin\Debug\net5.0\P-02. Shoot for the Win.runtimeconfig.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam Practice\P-02. Shoot for the Win\bin\Debug\net5.0\P-02. Shoot for the Win.runtimeconfig.dev.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam Practice\P-02. Shoot for the Win\bin\Debug\net5.0\P-02. Shoot for the Win.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam Practice\P-02. Shoot for the Win\bin\Debug\net5.0\ref\P-02. Shoot for the Win.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam Practice\P-02. Shoot for the Win\bin\Debug\net5.0\P-02. Shoot for the Win.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam Practice\P-02. Shoot for the Win\obj\Debug\net5.0\P-02. Shoot for the Win.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam Practice\P-02. Shoot for the Win\obj\Debug\net5.0\P-02. Shoot for the Win.AssemblyInfoInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam Practice\P-02. Shoot for the Win\obj\Debug\net5.0\P-02. Shoot for the Win.AssemblyInfo.cs
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam Practice\P-02. Shoot for the Win\obj\Debug\net5.0\P-02. Shoot for the Win.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam Practice\P-02. Shoot for the Win\obj\Debug\net5.0\P-02. Shoot for the Win.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam Practice\P-02. Shoot for the Win\obj\Debug\net5.0\ref\P-02. Shoot for the Win.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam Practice\P-02. Shoot for the Win\obj\Debug\net5.0\P-02. Shoot for the Win.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Mid Exam Practice\P-02. Shoot for the Win\obj\Debug\net5.0\P-02. Shoot for the Win.genruntimeconfig.cache

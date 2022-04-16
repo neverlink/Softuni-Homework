@@ -1,0 +1,16 @@
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-05. Bomb Numbers\bin\Debug\net5.0\P-05. Bomb Numbers.exe
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-05. Bomb Numbers\bin\Debug\net5.0\P-05. Bomb Numbers.deps.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-05. Bomb Numbers\bin\Debug\net5.0\P-05. Bomb Numbers.runtimeconfig.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-05. Bomb Numbers\bin\Debug\net5.0\P-05. Bomb Numbers.runtimeconfig.dev.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-05. Bomb Numbers\bin\Debug\net5.0\P-05. Bomb Numbers.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-05. Bomb Numbers\bin\Debug\net5.0\ref\P-05. Bomb Numbers.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-05. Bomb Numbers\bin\Debug\net5.0\P-05. Bomb Numbers.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-05. Bomb Numbers\obj\Debug\net5.0\P-05. Bomb Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-05. Bomb Numbers\obj\Debug\net5.0\P-05. Bomb Numbers.AssemblyInfoInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-05. Bomb Numbers\obj\Debug\net5.0\P-05. Bomb Numbers.AssemblyInfo.cs
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-05. Bomb Numbers\obj\Debug\net5.0\P-05. Bomb Numbers.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-05. Bomb Numbers\obj\Debug\net5.0\P-05. Bomb Numbers.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-05. Bomb Numbers\obj\Debug\net5.0\ref\P-05. Bomb Numbers.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-05. Bomb Numbers\obj\Debug\net5.0\P-05. Bomb Numbers.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-05. Bomb Numbers\obj\Debug\net5.0\P-05. Bomb Numbers.genruntimeconfig.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Lists\P-05. Bomb Numbers\obj\Debug\net5.0\P-05. Bomb Numbers.csproj.AssemblyReference.cache

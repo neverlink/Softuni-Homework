@@ -1,0 +1,16 @@
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Data Types and Variables\P-02. Sum Digits\bin\Debug\net5.0\P-02. Sum Digits.exe
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Data Types and Variables\P-02. Sum Digits\bin\Debug\net5.0\P-02. Sum Digits.deps.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Data Types and Variables\P-02. Sum Digits\bin\Debug\net5.0\P-02. Sum Digits.runtimeconfig.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Data Types and Variables\P-02. Sum Digits\bin\Debug\net5.0\P-02. Sum Digits.runtimeconfig.dev.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Data Types and Variables\P-02. Sum Digits\bin\Debug\net5.0\P-02. Sum Digits.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Data Types and Variables\P-02. Sum Digits\bin\Debug\net5.0\ref\P-02. Sum Digits.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Data Types and Variables\P-02. Sum Digits\bin\Debug\net5.0\P-02. Sum Digits.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Data Types and Variables\P-02. Sum Digits\obj\Debug\net5.0\P-02. Sum Digits.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Data Types and Variables\P-02. Sum Digits\obj\Debug\net5.0\P-02. Sum Digits.AssemblyInfoInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Data Types and Variables\P-02. Sum Digits\obj\Debug\net5.0\P-02. Sum Digits.AssemblyInfo.cs
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Data Types and Variables\P-02. Sum Digits\obj\Debug\net5.0\P-02. Sum Digits.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Data Types and Variables\P-02. Sum Digits\obj\Debug\net5.0\P-02. Sum Digits.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Data Types and Variables\P-02. Sum Digits\obj\Debug\net5.0\ref\P-02. Sum Digits.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Data Types and Variables\P-02. Sum Digits\obj\Debug\net5.0\P-02. Sum Digits.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Data Types and Variables\P-02. Sum Digits\obj\Debug\net5.0\P-02. Sum Digits.genruntimeconfig.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Data Types and Variables\P-02. Sum Digits\obj\Debug\net5.0\P-02. Sum Digits.csproj.AssemblyReference.cache
