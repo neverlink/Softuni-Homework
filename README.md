@@ -1,6 +1,6 @@
 # Softuni-Homework
 
-#### Includes all problems and my solutions to each of them.
+#### Problem descriptions are available at [judge.softuni.org](https://judge.softuni.org)
 
 <details>
     <summary>Programming Basics with C# - September 2018 (<a href="https://softuni.bg/trainings/2073/programming-basics-with-csharp-september-2018">Link to course</a>)</summary>
@@ -24,8 +24,5 @@
         </ol>
 </details>
 <details>
-    <summary>Programming Basics with C# - January 2022 (<a href="https://softuni.bg/trainings/3606/programming-fundamentals-with-csharp-january-2022">Link to course</a>)</
-    <ol>
-        <li>Soon™</li>
-    </ol>
+    <summary>Programming Basics with C# - January 2022 (<a href="https://softuni.bg/trainings/3606/programming-fundamentals-with-csharp-january-2022">Link to course</a>)</summary>
 </details>
