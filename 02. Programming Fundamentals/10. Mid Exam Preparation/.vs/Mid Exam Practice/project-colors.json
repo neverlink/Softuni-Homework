@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9843afe7-749d-475f-bb52-ae631d9ac768": {
+      "ProjectGuid": "9843afe7-749d-475f-bb52-ae631d9ac768",
+      "DisplayName": "P-01. Computer Store",
+      "ColorIndex": 0
+    },
+    "025bc0d3-a380-4d19-972a-f31a0994a7cd": {
+      "ProjectGuid": "025bc0d3-a380-4d19-972a-f31a0994a7cd",
+      "DisplayName": "P-02. The Lift",
+      "ColorIndex": 1
+    },
+    "b54f54fc-861c-4842-8e77-6d03d5ef5530": {
+      "ProjectGuid": "b54f54fc-861c-4842-8e77-6d03d5ef5530",
+      "DisplayName": "P-02. Shoot for the Win",
+      "ColorIndex": 2
+    },
+    "fe9a9220-9bbe-44f9-9bd3-9a20ad40ff13": {
+      "ProjectGuid": "fe9a9220-9bbe-44f9-9bd3-9a20ad40ff13",
+      "DisplayName": "P-03. Memory Game",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

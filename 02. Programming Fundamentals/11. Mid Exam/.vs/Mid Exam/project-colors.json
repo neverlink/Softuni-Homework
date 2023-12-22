@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "aa914b51-80a1-4817-ab22-aee4d1d1f1d0": {
+      "ProjectGuid": "aa914b51-80a1-4817-ab22-aee4d1d1f1d0",
+      "DisplayName": "P-01. The Biscuit Factory",
+      "ColorIndex": 0
+    },
+    "7082e16b-9491-4f8a-8714-cd3b7161c4dd": {
+      "ProjectGuid": "7082e16b-9491-4f8a-8714-cd3b7161c4dd",
+      "DisplayName": "P-02. Space Travel",
+      "ColorIndex": 1
+    },
+    "77d8bcfe-a078-4afc-a1a0-7fb9ce2740d8": {
+      "ProjectGuid": "77d8bcfe-a078-4afc-a1a0-7fb9ce2740d8",
+      "DisplayName": "P-03. Chat Logger",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

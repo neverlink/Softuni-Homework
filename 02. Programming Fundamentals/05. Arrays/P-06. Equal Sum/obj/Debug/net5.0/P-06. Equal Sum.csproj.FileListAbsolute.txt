@@ -1,0 +1,16 @@
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-06. Equal Sum\bin\Debug\net5.0\P-06. Equal Sum.exe
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-06. Equal Sum\bin\Debug\net5.0\P-06. Equal Sum.deps.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-06. Equal Sum\bin\Debug\net5.0\P-06. Equal Sum.runtimeconfig.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-06. Equal Sum\bin\Debug\net5.0\P-06. Equal Sum.runtimeconfig.dev.json
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-06. Equal Sum\bin\Debug\net5.0\P-06. Equal Sum.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-06. Equal Sum\bin\Debug\net5.0\ref\P-06. Equal Sum.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-06. Equal Sum\bin\Debug\net5.0\P-06. Equal Sum.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-06. Equal Sum\obj\Debug\net5.0\P-06. Equal Sum.csproj.AssemblyReference.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-06. Equal Sum\obj\Debug\net5.0\P-06. Equal Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-06. Equal Sum\obj\Debug\net5.0\P-06. Equal Sum.AssemblyInfoInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-06. Equal Sum\obj\Debug\net5.0\P-06. Equal Sum.AssemblyInfo.cs
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-06. Equal Sum\obj\Debug\net5.0\P-06. Equal Sum.csproj.CoreCompileInputs.cache
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-06. Equal Sum\obj\Debug\net5.0\P-06. Equal Sum.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-06. Equal Sum\obj\Debug\net5.0\ref\P-06. Equal Sum.dll
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-06. Equal Sum\obj\Debug\net5.0\P-06. Equal Sum.pdb
+D:\Programming\Softuni-Homework\02. Programming Fundamentals\Arrays\P-06. Equal Sum\obj\Debug\net5.0\P-06. Equal Sum.genruntimeconfig.cache
